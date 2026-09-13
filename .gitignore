@@ -1,0 +1,21 @@
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Secrets locaux
+.env
+
+# Éditeurs
+*~
+*.bak
+*.swp
+
+# Logs de test locaux
+*.log
+
