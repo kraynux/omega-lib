@@ -1,0 +1,1108 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: omega-lib\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Omega-Status: testing\n"
+
+#: omega-suite/src/omega_suite/app/clear_all_exports.py:64 omega-check/src/omega_check/application/commands/clear_directory.py:50 omega-deep/src/omega_deep/application/commands/clear_directory.py:50 omega-fold/src/omega_fold/application/commands/clear_directory.py:50 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:50
+msgid "dossier système ou personnel"
+msgstr "시스템 또는 개인 폴더"
+
+#: omega-suite/src/omega_suite/app/clear_all_exports.py:68 omega-check/src/omega_check/application/commands/clear_directory.py:54 omega-deep/src/omega_deep/application/commands/clear_directory.py:54 omega-fold/src/omega_fold/application/commands/clear_directory.py:54 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:54
+msgid "ce n'est pas un dossier"
+msgstr "폴더가 아닙니다"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:56 omega-suite/src/omega_suite/interfaces/tui/app.py:57 omega-suite/src/omega_suite/interfaces/tui/app.py:347 omega-scan/src/omega_scan/interfaces/tui/app.py:53 omega-scan/src/omega_scan/interfaces/tui/app.py:54 omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:31 omega-check/src/omega_check/interfaces/tui/app.py:52 omega-check/src/omega_check/interfaces/tui/app.py:53 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-check/src/omega_check/interfaces/tui/screens/home.py:35 omega-deep/src/omega_deep/interfaces/tui/app.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:53 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:34 omega-fold/src/omega_fold/interfaces/tui/app.py:60 omega-fold/src/omega_fold/interfaces/tui/app.py:61 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:32 omega-stress/src/omega_stress/interfaces/tui/app.py:56 omega-stress/src/omega_stress/interfaces/tui/app.py:61 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:41 omega-track/src/omega_track/interfaces/tui/app.py:53 omega-track/src/omega_track/interfaces/tui/app.py:54 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-track/src/omega_track/interfaces/tui/screens/home.py:39 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:54 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:40
+msgid "Quitter"
+msgstr "종료"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:58 omega-scan/src/omega_scan/interfaces/tui/app.py:55 omega-check/src/omega_check/interfaces/tui/app.py:54 omega-deep/src/omega_deep/interfaces/tui/app.py:54 omega-fold/src/omega_fold/interfaces/tui/app.py:62 omega-stress/src/omega_stress/interfaces/tui/app.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/app.py:55 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:55
+msgid "Thème suivant"
+msgstr "다음 테마"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:59 omega-scan/src/omega_scan/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/app.py:55 omega-deep/src/omega_deep/interfaces/tui/app.py:55 omega-fold/src/omega_fold/interfaces/tui/app.py:63 omega-stress/src/omega_stress/interfaces/tui/app.py:55 omega-track/src/omega_track/interfaces/tui/app.py:56 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:56
+msgid "Rafraîchir"
+msgstr "새로 고침"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:60 omega-suite/src/omega_suite/interfaces/tui/app.py:345 omega-scan/src/omega_scan/interfaces/tui/app.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:30 omega-check/src/omega_check/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/screens/home.py:34 omega-deep/src/omega_deep/interfaces/tui/app.py:56 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:33 omega-fold/src/omega_fold/interfaces/tui/app.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:31 omega-stress/src/omega_stress/interfaces/tui/app.py:54 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:39 omega-track/src/omega_track/interfaces/tui/app.py:57 omega-track/src/omega_track/interfaces/tui/screens/home.py:38 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:39
+msgid "Aide"
+msgstr "도움말"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:61 omega-suite/src/omega_suite/interfaces/tui/app.py:344 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:29 omega-check/src/omega_check/interfaces/tui/screens/home.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:32 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:37 omega-track/src/omega_track/interfaces/tui/screens/home.py:37 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:37
+msgid "Réglages"
+msgstr "설정"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:273 omega-check/src/omega_check/interfaces/tui/app.py:86 omega-deep/src/omega_deep/interfaces/tui/app.py:86 omega-fold/src/omega_fold/interfaces/tui/app.py:94 omega-track/src/omega_track/interfaces/tui/app.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:91
+#, python-brace-format
+msgid "Terminal détecté : {family} ({columns}x{rows}). Rendu appliqué : {value}."
+msgstr "감지된 터미널: {family} ({columns}x{rows}). 적용된 렌더링: {value}."
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:284 omega-suite/src/omega_suite/interfaces/tui/app.py:314 omega-scan/src/omega_scan/interfaces/tui/app.py:97 omega-scan/src/omega_scan/interfaces/tui/app.py:142 omega-check/src/omega_check/interfaces/tui/app.py:97 omega-check/src/omega_check/interfaces/tui/app.py:135 omega-deep/src/omega_deep/interfaces/tui/app.py:97 omega-deep/src/omega_deep/interfaces/tui/app.py:135 omega-fold/src/omega_fold/interfaces/tui/app.py:105 omega-fold/src/omega_fold/interfaces/tui/app.py:143 omega-stress/src/omega_stress/interfaces/tui/app.py:154 omega-track/src/omega_track/interfaces/tui/app.py:94 omega-track/src/omega_track/interfaces/tui/app.py:132 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:144
+#, python-brace-format
+msgid "{theme} | {columns}x{rows}"
+msgstr "{theme} | {columns}x{rows}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:303 omega-scan/src/omega_scan/interfaces/tui/app.py:127 omega-check/src/omega_check/interfaces/tui/app.py:127 omega-deep/src/omega_deep/interfaces/tui/app.py:127 omega-fold/src/omega_fold/interfaces/tui/app.py:135 omega-track/src/omega_track/interfaces/tui/app.py:124 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:136
+#, python-brace-format
+msgid "Thème appliqué mais non enregistré : {exc}"
+msgstr "테마를 적용했지만 저장하지 못했습니다: {exc}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:316 omega-scan/src/omega_scan/interfaces/tui/app.py:143 omega-check/src/omega_check/interfaces/tui/app.py:137 omega-deep/src/omega_deep/interfaces/tui/app.py:137 omega-fold/src/omega_fold/interfaces/tui/app.py:145 omega-stress/src/omega_stress/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/app.py:134 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:146
+#, python-brace-format
+msgid "{family} ({columns}x{rows})"
+msgstr "{family} ({columns}x{rows})"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:317 omega-scan/src/omega_scan/interfaces/tui/app.py:143 omega-check/src/omega_check/interfaces/tui/app.py:138 omega-deep/src/omega_deep/interfaces/tui/app.py:138 omega-fold/src/omega_fold/interfaces/tui/app.py:146 omega-stress/src/omega_stress/interfaces/tui/app.py:149 omega-track/src/omega_track/interfaces/tui/app.py:135 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:147
+msgid "Terminal rafraîchi"
+msgstr "터미널을 새로 고쳤습니다"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158
+msgid "Changer le thème actif"
+msgstr "현재 테마 변경"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:48 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:43 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:51 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:64 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:73 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:72
+msgid "Thème"
+msgstr "테마"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:350 omega-scan/src/omega_scan/interfaces/tui/app.py:159 omega-check/src/omega_check/interfaces/tui/app.py:152 omega-deep/src/omega_deep/interfaces/tui/app.py:152 omega-fold/src/omega_fold/interfaces/tui/app.py:160 omega-stress/src/omega_stress/interfaces/tui/app.py:199 omega-track/src/omega_track/interfaces/tui/app.py:151
+msgid "Capture d'écran"
+msgstr "스크린샷"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:351 omega-scan/src/omega_scan/interfaces/tui/app.py:160 omega-check/src/omega_check/interfaces/tui/app.py:153 omega-deep/src/omega_deep/interfaces/tui/app.py:153 omega-fold/src/omega_fold/interfaces/tui/app.py:161 omega-stress/src/omega_stress/interfaces/tui/app.py:200 omega-track/src/omega_track/interfaces/tui/app.py:152
+msgid "Enregistrer une capture SVG de l'écran courant"
+msgstr "현재 화면의 SVG 스크린샷 저장"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:375 omega-scan/src/omega_scan/interfaces/tui/app.py:183 omega-check/src/omega_check/interfaces/tui/app.py:172 omega-deep/src/omega_deep/interfaces/tui/app.py:172 omega-fold/src/omega_fold/interfaces/tui/app.py:180 omega-stress/src/omega_stress/interfaces/tui/app.py:242 omega-track/src/omega_track/interfaces/tui/app.py:184 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:187
+msgid "Erreur inattendue"
+msgstr "예기치 않은 오류"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:32 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:31 omega-check/src/omega_check/interfaces/tui/language_setting.py:31 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:31 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:31 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:31 omega-track/src/omega_track/interfaces/tui/language_setting.py:31 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:31
+msgid "en test"
+msgstr "테스트 중"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:32 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:31 omega-check/src/omega_check/interfaces/tui/language_setting.py:31 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:31 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:31 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:31 omega-track/src/omega_track/interfaces/tui/language_setting.py:31 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:31
+#, python-brace-format
+msgid "{label} ({value})"
+msgstr "{label} ({value})"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:84 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:94 omega-check/src/omega_check/interfaces/tui/language_setting.py:94 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:94 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:94 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:94 omega-track/src/omega_track/interfaces/tui/language_setting.py:94 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:94
+msgid "REDÉMARRER L'INTERFACE ?"
+msgstr "인터페이스를 재시작하시겠습니까?"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:86 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:96 omega-check/src/omega_check/interfaces/tui/language_setting.py:96 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:96 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:96 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:96 omega-track/src/omega_track/interfaces/tui/language_setting.py:96 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:96
+#, python-brace-format
+msgid "La langue « {name} » sera appliquée après le redémarrage de l'interface."
+msgstr "언어 \"{name}\"은(는) 인터페이스를 다시 시작한 후 적용됩니다."
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:131 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:141 omega-check/src/omega_check/interfaces/tui/language_setting.py:141 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:141 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:141 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:142 omega-track/src/omega_track/interfaces/tui/language_setting.py:141 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:141
+#, python-brace-format
+msgid "{LANGUAGE_LABEL} : {native_name}"
+msgstr "{LANGUAGE_LABEL}: {native_name}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:134 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:144 omega-check/src/omega_check/interfaces/tui/language_setting.py:144 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:144 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:144 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:149 omega-track/src/omega_track/interfaces/tui/language_setting.py:144 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:144
+#, python-brace-format
+msgid "Langue « {code} » indisponible : interface en français."
+msgstr "언어 « {code} »을(를) 사용할 수 없습니다: 인터페이스는 프랑스어입니다."
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:141 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:151 omega-check/src/omega_check/interfaces/tui/language_setting.py:151 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:151 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:151 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:159 omega-track/src/omega_track/interfaces/tui/language_setting.py:151 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:151
+#, python-brace-format
+msgid "Ce terminal (console texte) ne peut pas afficher la langue « {name} » : interface en anglais pour cette session. Le réglage est conservé - la langue revient dans un terminal graphique."
+msgstr "이 터미널(텍스트 콘솔)은 언어 « {name} »을(를) 표시할 수 없습니다: 이 세션의 인터페이스는 영어입니다. 설정은 유지되며 그래픽 터미널에서는 언어가 돌아옵니다."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:24 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:41 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:49 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:63 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:71 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:70
+msgid "RÉGLAGES"
+msgstr "설정"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:26 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:95 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:69 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:69 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:89 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:118 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:47
+msgid "AIDE"
+msgstr "도움말"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:40 omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:88 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/compare.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:85 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:112 omega-scan/src/omega_scan/interfaces/tui/screens/history.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:71 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:47 omega-check/src/omega_check/interfaces/tui/screens/_base.py:20 omega-check/src/omega_check/interfaces/tui/screens/compare.py:52 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:77 omega-check/src/omega_check/interfaces/tui/screens/history.py:52 omega-check/src/omega_check/interfaces/tui/screens/home.py:45 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:64 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:96 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:91 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:46 omega-check/src/omega_check/interfaces/tui/screens/targets.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:59 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:86 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:85 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:72 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/_base.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:92 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:116 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:158 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:103 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:51 omega-track/src/omega_track/interfaces/tui/screens/_base.py:20 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:127 omega-track/src/omega_track/interfaces/tui/screens/geoip_configuration.py:74 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:132 omega-track/src/omega_track/interfaces/tui/screens/history.py:82 omega-track/src/omega_track/interfaces/tui/screens/home.py:57 omega-track/src/omega_track/interfaces/tui/screens/results.py:145 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:112 omega-track/src/omega_track/interfaces/tui/screens/source_configuration.py:57 omega-track/src/omega_track/interfaces/tui/screens/targets.py:61 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:102 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:69 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:47 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:50 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:65 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:113 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:62
+msgid "Retour"
+msgstr "뒤로"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:42 omega-check/src/omega_check/interfaces/tui/screens/_base.py:21 omega-check/src/omega_check/interfaces/tui/screens/home.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:43 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:54 omega-track/src/omega_track/interfaces/tui/screens/_base.py:21 omega-track/src/omega_track/interfaces/tui/screens/home.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:51
+msgid "Monter"
+msgstr "위로"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:42 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:43 omega-check/src/omega_check/interfaces/tui/screens/_base.py:22 omega-check/src/omega_check/interfaces/tui/screens/home.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:55 omega-track/src/omega_track/interfaces/tui/screens/_base.py:22 omega-track/src/omega_track/interfaces/tui/screens/home.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:52
+msgid "Descendre"
+msgstr "아래로"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:20 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:35 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:21 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:36 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:60 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:37 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:58 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:33 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:55 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:21 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:36 omega-track/src/omega_track/interfaces/tui/screens/progress.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:38
+msgid "Annuler"
+msgstr "취소"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:34 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:34 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:34 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:35 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:36
+msgid "Confirmer"
+msgstr "확인"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+msgid "Haut / Bas"
+msgstr "Up / Down"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+msgid "Naviguer entre les éléments d'un écran"
+msgstr "화면의 요소 사이 이동"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+msgid "Naviguer entre les champs d'un formulaire"
+msgstr "폼의 필드 사이 이동"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+msgid "Tab / Maj+Tab"
+msgstr "Tab / Shift+Tab"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+msgid "Retour à l'écran précédent (confirmation de sortie sur l'accueil)"
+msgstr "이전 화면으로 돌아가기(홈에서는 종료 확인)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+msgid "Échap"
+msgstr "Esc"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:16 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:20 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:27
+msgid "Thème suivant (appliqué immédiatement, sans confirmation)"
+msgstr "다음 테마(확인 없이 즉시 적용)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:17 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:28
+msgid "Rafraîchir la détection du terminal"
+msgstr "터미널 감지 새로 고침"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:96 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:64 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:70 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:119 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:48
+msgid "Raccourcis clavier"
+msgstr "키보드 바로 가기"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:98 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:66 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:72 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:72 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:92 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:121 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:50
+#, python-brace-format
+msgid "{key:<14} {description}"
+msgstr "{key:<14} {description}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/quit_confirm.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/quit_confirm.py:23 omega-check/src/omega_check/interfaces/tui/screens/quit_confirm.py:24 omega-deep/src/omega_deep/interfaces/tui/screens/quit_confirm.py:24 omega-fold/src/omega_fold/interfaces/tui/screens/quit_confirm.py:25 omega-stress/src/omega_stress/interfaces/tui/screens/quit_confirm.py:27 omega-track/src/omega_track/interfaces/tui/screens/quit_confirm.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/quit_confirm.py:24
+msgid "Oui, quitter"
+msgstr "예, 종료"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/quit_confirm.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/quit_confirm.py:25 omega-check/src/omega_check/interfaces/tui/screens/quit_confirm.py:26 omega-deep/src/omega_deep/interfaces/tui/screens/quit_confirm.py:26 omega-fold/src/omega_fold/interfaces/tui/screens/quit_confirm.py:27 omega-stress/src/omega_stress/interfaces/tui/screens/quit_confirm.py:29 omega-track/src/omega_track/interfaces/tui/screens/quit_confirm.py:26 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/quit_confirm.py:26
+msgid "Non, continuer"
+msgstr "아니요, 계속"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:56 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:50 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:54 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:75
+msgid "Profil de rendu (redémarrage requis)"
+msgstr "렌더링 프로필(재시작 필요)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:59 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:53 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:57 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:56 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:35 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:78
+msgid "Automatique"
+msgstr "자동"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:75 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:77 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:76 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:75 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:101
+msgid "Purge"
+msgstr "정리"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:125 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:119 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:122 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:117 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:116 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:146
+msgid "Appliqué au prochain démarrage."
+msgstr "다음 시작 시 적용됩니다."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:141 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:119 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:122 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:117 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:116 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:72 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:146
+msgid "Profil de rendu"
+msgstr "렌더링 프로필"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:161 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:165 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:152 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:151 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:188
+msgid "Suppression en cours..."
+msgstr "삭제 중..."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/splash.py:23 omega-scan/src/omega_scan/interfaces/tui/screens/splash.py:26 omega-check/src/omega_check/interfaces/tui/screens/splash.py:26 omega-deep/src/omega_deep/interfaces/tui/screens/splash.py:26 omega-fold/src/omega_fold/interfaces/tui/screens/splash.py:27 omega-track/src/omega_track/interfaces/tui/screens/splash.py:26 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/splash.py:27
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "계속하려면 아무 키나 누르세요..."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/terminal_warning.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/terminal_warning.py:24 omega-check/src/omega_check/interfaces/tui/screens/terminal_warning.py:25 omega-deep/src/omega_deep/interfaces/tui/screens/terminal_warning.py:25 omega-fold/src/omega_fold/interfaces/tui/screens/terminal_warning.py:26 omega-stress/src/omega_stress/interfaces/tui/screens/terminal_warning.py:25 omega-track/src/omega_track/interfaces/tui/screens/terminal_warning.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/terminal_warning.py:25
+msgid "TERMINAL LIMITÉ"
+msgstr "제한된 터미널"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/terminal_warning.py:25 omega-scan/src/omega_scan/interfaces/tui/screens/terminal_warning.py:27 omega-check/src/omega_check/interfaces/tui/screens/terminal_warning.py:28 omega-deep/src/omega_deep/interfaces/tui/screens/terminal_warning.py:28 omega-fold/src/omega_fold/interfaces/tui/screens/terminal_warning.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/terminal_warning.py:28 omega-track/src/omega_track/interfaces/tui/screens/terminal_warning.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/terminal_warning.py:28
+msgid "Continuer quand même"
+msgstr "그래도 계속"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/files/json_settings_store.py:40 omega-stress/src/omega_stress/infrastructure/storage/files/json_settings_store.py:42
+#, python-brace-format
+msgid "Échec de lecture de {path} : {exc}"
+msgstr "{path} 읽기 실패: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/files/json_settings_store.py:48 omega-stress/src/omega_stress/infrastructure/storage/files/json_settings_store.py:52
+#, python-brace-format
+msgid "Échec d'écriture de {path} : {exc}"
+msgstr "{path} 쓰기 실패: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/sqlite/migrations.py:22 omega-stress/src/omega_stress/infrastructure/storage/sqlite/migrations.py:23
+#, python-brace-format
+msgid "Échec de l'initialisation du schéma SQLite : {exc}"
+msgstr "SQLite 스키마 초기화 실패: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/sqlite/target_repository.py:67 omega-stress/src/omega_stress/infrastructure/storage/sqlite/target_repository.py:98
+#, python-brace-format
+msgid "Échec de listage des cibles épinglées : {exc}"
+msgstr "고정된 대상 목록 조회 실패: {exc}"
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:85 omega-stress/src/omega_stress/interfaces/tui/app.py:91
+#, python-brace-format
+msgid "Terminal détecté : {family} ({columns}x{rows}). Rendu appliqué : {render_profile}."
+msgstr "감지된 터미널: {family} ({columns}x{rows}). 적용된 렌더링: {render_profile}."
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160
+msgid "Quitter l'application (avec confirmation)"
+msgstr "애플리케이션 종료(확인 있음)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:180 omega-track/src/omega_track/interfaces/tui/app.py:181 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:184
+msgid "Exception non prévue"
+msgstr "예기치 않은 예외"
+
+#: omega-scan/src/omega_scan/interfaces/tui/language_setting.py:63 omega-check/src/omega_check/interfaces/tui/language_setting.py:63 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:63 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:63 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:63 omega-track/src/omega_track/interfaces/tui/language_setting.py:63 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:63
+#, python-brace-format
+msgid "Langue choisie dans les réglages de {host}."
+msgstr "언어는 {host}의 설정에서 선택됩니다."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:35 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:43
+msgid "EXPORTER LE SCAN"
+msgstr "스캔 내보내기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:47 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:45 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:54
+msgid "Format"
+msgstr "형식"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:55 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:83 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:58 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:73 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:56 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:55 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:68 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:50 omega-track/src/omega_track/interfaces/tui/screens/history.py:80
+msgid "Exporter"
+msgstr "내보내기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:18 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:23 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:24 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:29
+msgid "Cette aide"
+msgstr "이 도움말"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:19 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:24 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:25 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:30
+msgid "Quitter (avec confirmation)"
+msgstr "종료(확인 있음)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Paramètre"
+msgstr "매개변수"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:77
+msgid "Non"
+msgstr "아니요"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:35 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:324 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:74
+msgid "Oui"
+msgstr "예"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:26 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:27 omega-check/src/omega_check/interfaces/tui/screens/home.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:35
+msgid "Scanner"
+msgstr "스캔"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:60 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:28 omega-check/src/omega_check/interfaces/tui/screens/home.py:30 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:42 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:34 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:102 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:30 omega-track/src/omega_track/interfaces/tui/screens/home.py:32 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:36
+msgid "Cibles"
+msgstr "대상"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:67 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:27 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:35 omega-check/src/omega_check/interfaces/tui/screens/home.py:32 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:37 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:31 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:38 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:47 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:35 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:98 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:71 omega-track/src/omega_track/interfaces/tui/screens/home.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:38
+msgid "Historique"
+msgstr "기록"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:74 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:60 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:42 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:65 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:45 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:63 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:83
+msgid "Export"
+msgstr "내보내기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:100 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:68 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:74 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:74 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:94 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:123
+msgid "Fonctions"
+msgstr "기능"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:37 omega-check/src/omega_check/interfaces/tui/screens/history.py:39 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:38 omega-track/src/omega_track/interfaces/tui/screens/history.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:40
+msgid "HISTORIQUE"
+msgstr "기록"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:42 omega-check/src/omega_check/interfaces/tui/screens/history.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:47 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:42 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:45
+msgid "Voir le détail"
+msgstr "상세 보기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:44 omega-check/src/omega_check/interfaces/tui/screens/history.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:49
+msgid "Marquer comme référence"
+msgstr "기준으로 표시"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:46 omega-check/src/omega_check/interfaces/tui/screens/history.py:48 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:51
+msgid "Comparer avec la référence"
+msgstr "기준과 비교"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:48 omega-check/src/omega_check/interfaces/tui/screens/history.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:53 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:57 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:46 omega-track/src/omega_track/interfaces/tui/screens/history.py:68
+msgid "Rejouer"
+msgstr "다시 실행"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:82 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:98 omega-check/src/omega_check/interfaces/tui/screens/history.py:76 omega-check/src/omega_check/interfaces/tui/screens/targets.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:79 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:91 omega-track/src/omega_track/interfaces/tui/screens/history.py:136 omega-track/src/omega_track/interfaces/tui/screens/history.py:142 omega-track/src/omega_track/interfaces/tui/screens/history.py:172 omega-track/src/omega_track/interfaces/tui/screens/targets.py:121 omega-track/src/omega_track/interfaces/tui/screens/targets.py:139 omega-track/src/omega_track/interfaces/tui/screens/targets.py:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:95
+msgid "Sélectionnez d'abord une ligne."
+msgstr "먼저 행을 선택하십시오."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:89 omega-check/src/omega_check/interfaces/tui/screens/history.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:86
+#, python-brace-format
+msgid "Référence : {reference_scan_id}"
+msgstr "기준: {reference_scan_id}"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:92 omega-check/src/omega_check/interfaces/tui/screens/history.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:89
+msgid "Marquez d'abord une référence."
+msgstr "먼저 기준을 표시하세요."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:107 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:114 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:125
+msgid "Scan introuvable."
+msgstr "스캔을 찾을 수 없습니다."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/home.py:60 omega-check/src/omega_check/interfaces/tui/screens/home.py:64 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:63 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:61 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:72 omega-track/src/omega_track/interfaces/tui/screens/home.py:76 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:75
+msgid "MENU PRINCIPAL"
+msgstr "메인 메뉴"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:43 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:61
+msgid "(saisie libre ci-dessous)"
+msgstr "(아래에 직접 입력)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:51 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:56 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:40
+msgid "SCANNER UNE CIBLE"
+msgstr "대상 스캔"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:54 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:58 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:27 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:42 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/interfaces/tui/widgets/target_picker.py:27 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:60 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:67 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:78 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:67 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:29 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:158
+msgid "Cible"
+msgstr "대상"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:56 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:68 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:66 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:67
+msgid "Profil"
+msgstr "프로필"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:69 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:94 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:84 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:148 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:148 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:154 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:100 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:63
+msgid "Lancer"
+msgstr "실행"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:95 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:136 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:125 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:98 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:125
+msgid "Saisissez une cible."
+msgstr "대상을 입력하세요."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:66 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:71 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:70 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:69 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:85
+msgid "Captures d'écran"
+msgstr "스크린샷"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:75 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:96
+msgid "Effacer toutes les cibles"
+msgstr "모든 대상 지우기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:77 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:80 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:79 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:78 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:100 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:104
+msgid "Vider l'historique"
+msgstr "기록 비우기"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:127 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:130
+msgid "EFFACER TOUTES LES CIBLES ?"
+msgstr "모든 대상을 지우시겠습니까?"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:135 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:130 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:125 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:124 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:141 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:154
+msgid "VIDER L'HISTORIQUE ?"
+msgstr "기록을 비우시겠습니까?"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:136 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:131 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:125
+msgid "Tous les scans persistés seront définitivement supprimés."
+msgstr "저장된 모든 스캔이 영구적으로 삭제됩니다."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:151 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:193 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:180 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:179 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:181 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:215
+msgid "Historique vidé."
+msgstr "기록을 비웠습니다."
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:35 omega-check/src/omega_check/interfaces/tui/screens/targets.py:36
+msgid "CIBLES ÉPINGLÉES"
+msgstr "고정된 대상"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:40 omega-check/src/omega_check/interfaces/tui/screens/targets.py:39
+msgid "Note (optionnel)"
+msgstr "메모 (선택)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:43 omega-check/src/omega_check/interfaces/tui/screens/targets.py:42 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:47 omega-track/src/omega_track/interfaces/tui/screens/targets.py:57
+msgid "Épingler"
+msgstr "고정"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:126 omega-track/src/omega_track/interfaces/tui/screens/results.py:155 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:222
+msgid "Hôte"
+msgstr "호스트"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17
+msgid "Note"
+msgstr "메모"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17
+msgid "Épinglé le"
+msgstr "고정 일시"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:81 omega-check/src/omega_check/interfaces/tui/screens/targets.py:67
+msgid "Saisissez un hôte."
+msgstr "호스트를 입력하세요."
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16 omega-stress/src/omega_stress/interfaces/tui/widgets/target_table.py:17 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52
+msgid "Statut"
+msgstr "상태"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:239 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Sévérité"
+msgstr "심각도"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Titre"
+msgstr "제목"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18
+msgid "Date"
+msgstr "날짜"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52
+msgid "Findings"
+msgstr "발견 사항"
+
+#: omega-check/src/omega_check/application/commands/clear_directory.py:35 omega-deep/src/omega_deep/application/commands/clear_directory.py:35 omega-fold/src/omega_fold/application/commands/clear_directory.py:35 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:35
+#, python-brace-format
+msgid "Dossier refusé ({reason}) : {path}"
+msgstr "폴더 거부됨 ({reason}): {path}"
+
+#: omega-check/src/omega_check/application/commands/create_profile.py:19 omega-deep/src/omega_deep/application/commands/create_profile.py:19
+#, python-brace-format
+msgid "Un profil utilisateur '{name}' existe déjà"
+msgstr "사용자 프로필 '{name}'이(가) 이미 있습니다"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:77 omega-deep/src/omega_deep/application/commands/run_scan.py:89
+#, python-format
+msgid "Résolution DNS de %r..."
+msgstr "%r의 DNS 확인 중..."
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:81 omega-deep/src/omega_deep/application/commands/run_scan.py:93
+#, python-format
+msgid "Résolution DNS échouée pour %r : %s"
+msgstr "%r의 DNS 확인 실패: %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:86 omega-deep/src/omega_deep/application/commands/run_scan.py:98
+#, python-format
+msgid "Cible résolue : %s -> %s"
+msgstr "대상 확인됨: %s -> %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:91 omega-deep/src/omega_deep/application/commands/scan_host.py:50
+#, python-format
+msgid "Scan du port %s/%s..."
+msgstr "포트 %s/%s 스캔 중..."
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:94 omega-deep/src/omega_deep/application/commands/scan_host.py:53
+#, python-format
+msgid "Port %s/%s : %s"
+msgstr "포트 %s/%s: %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:97 omega-deep/src/omega_deep/application/commands/scan_host.py:56
+#, python-format
+msgid "Identification du service sur le port %s..."
+msgstr "포트 %s의 서비스 식별 중..."
+
+#: omega-check/src/omega_check/application/exceptions.py:26 omega-deep/src/omega_deep/application/exceptions.py:27
+#, python-brace-format
+msgid "Échec de résolution DNS : {target}"
+msgstr "DNS 확인 실패: {target}"
+
+#: omega-check/src/omega_check/application/exceptions.py:38 omega-deep/src/omega_deep/application/exceptions.py:39 omega-fold/src/omega_fold/application/exceptions.py:18
+#, python-brace-format
+msgid "Thème inconnu : '{theme_name}'"
+msgstr "알 수 없는 테마: '{theme_name}'"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:20 omega-deep/src/omega_deep/domain/profiles/defaults.py:21
+msgid "Scan ultra-rapide : SSH + HTTP + HTTPS"
+msgstr "초고속 스캔: SSH + HTTP + HTTPS"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:26 omega-deep/src/omega_deep/domain/profiles/defaults.py:27
+msgid "Services classiques Internet / LAN"
+msgstr "일반적인 인터넷 / LAN 서비스"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:36 omega-deep/src/omega_deep/domain/profiles/defaults.py:37
+msgid "Services web et alternatives"
+msgstr "웹 서비스와 대체 포트"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:42 omega-deep/src/omega_deep/domain/profiles/defaults.py:43
+msgid "Bases de données et services de données"
+msgstr "데이터베이스와 데이터 서비스"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:48 omega-deep/src/omega_deep/domain/profiles/defaults.py:49
+msgid "Accès distants (shell, bureau, RustDesk)"
+msgstr "원격 접근 (shell, 데스크톱, RustDesk)"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:54 omega-deep/src/omega_deep/domain/profiles/defaults.py:55
+msgid "Services de messagerie"
+msgstr "메일 서비스"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:60 omega-deep/src/omega_deep/domain/profiles/defaults.py:61
+msgid "Services DNS"
+msgstr "DNS 서비스"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:66 omega-deep/src/omega_deep/domain/profiles/defaults.py:67
+msgid "Équipements IoT, caméras, box, domotique"
+msgstr "IoT 기기, 카메라, 공유기, 스마트 홈"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:72 omega-deep/src/omega_deep/domain/profiles/defaults.py:73
+msgid "Environnements de dev / lab"
+msgstr "개발 / 실험 환경"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:78 omega-deep/src/omega_deep/domain/profiles/defaults.py:79
+msgid "Docker, Swarm et services courants en containers"
+msgstr "Docker, Swarm 및 일반적인 컨테이너 서비스"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:97 omega-deep/src/omega_deep/domain/profiles/defaults.py:98
+msgid "TOUS les profils système (scan exhaustif, long)"
+msgstr "모든 시스템 프로필 (전체 스캔, 오래 걸림)"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:13 omega-deep/src/omega_deep/domain/profiles/exceptions.py:13
+#, python-brace-format
+msgid "Port hors plage (1-65535) : {port}"
+msgstr "범위를 벗어난 포트 (1-65535): {port}"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:21 omega-deep/src/omega_deep/domain/profiles/exceptions.py:21
+#, python-brace-format
+msgid "Ports en double : {value}"
+msgstr "중복된 포트: {value}"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:29 omega-deep/src/omega_deep/domain/profiles/exceptions.py:29
+#, python-brace-format
+msgid "'{name}' est un nom de profil système réservé"
+msgstr "'{name}'은(는) 예약된 시스템 프로필 이름입니다"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:37 omega-deep/src/omega_deep/domain/profiles/exceptions.py:37
+#, python-brace-format
+msgid "Profil introuvable : '{name}'"
+msgstr "프로필을 찾을 수 없음: '{name}'"
+
+#: omega-check/src/omega_check/domain/scans/exceptions.py:11 omega-deep/src/omega_deep/domain/scans/exceptions.py:11 omega-fold/src/omega_fold/domain/scans/exceptions.py:11
+#, python-brace-format
+msgid "Scan introuvable : '{scan_id}'"
+msgstr "스캔을 찾을 수 없음: '{scan_id}'"
+
+#: omega-check/src/omega_check/domain/services/policies.py:65 omega-deep/src/omega_deep/domain/services/policies.py:64
+msgid "AWS ELB (pas un WAF applicatif à proprement parler)"
+msgstr "AWS ELB (엄밀히 말해 애플리케이션 WAF는 아님)"
+
+#: omega-check/src/omega_check/domain/services/policies.py:180 omega-deep/src/omega_deep/domain/services/policies.py:169
+msgid "serveur web"
+msgstr "웹 서버"
+
+#: omega-check/src/omega_check/domain/services/policies.py:182 omega-deep/src/omega_deep/domain/services/policies.py:171
+msgid "accès shell"
+msgstr "shell 접근"
+
+#: omega-check/src/omega_check/domain/services/policies.py:184 omega-deep/src/omega_deep/domain/services/policies.py:173
+msgid "accès graphique"
+msgstr "그래픽 접근"
+
+#: omega-check/src/omega_check/domain/services/policies.py:186 omega-deep/src/omega_deep/domain/services/policies.py:175
+msgid "base de données"
+msgstr "데이터베이스"
+
+#: omega-check/src/omega_check/infrastructure/network/httpx_http_prober.py:50 omega-deep/src/omega_deep/infrastructure/network/httpx_http_prober.py:45
+#, python-brace-format
+msgid "échec de la requête HTTP : {exc}"
+msgstr "HTTP 요청 실패: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/httpx_http_prober.py:62 omega-deep/src/omega_deep/infrastructure/network/httpx_http_prober.py:57
+#, python-brace-format
+msgid "header Server: {server}"
+msgstr "Server 헤더: {server}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:22 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:23
+#, python-brace-format
+msgid "échec de connexion : {exc}"
+msgstr "연결 실패: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:25 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:26
+msgid "connexion établie, aucun banner reçu"
+msgstr "연결됨, 배너를 받지 못함"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:34 omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:40 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:35 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:41
+#, python-brace-format
+msgid "banner : {banner}"
+msgstr "배너: {banner}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:23 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:24
+#, python-brace-format
+msgid "échec de connexion SSH : {exc}"
+msgstr "SSH 연결 실패: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:29 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:30
+msgid "banner inattendu (pas SSH) : {banner!r}"
+msgstr "예기치 않은 배너 (SSH 아님): {banner!r}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:30 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:31
+msgid "banner inattendu (pas RFB) : {banner!r}"
+msgstr "예기치 않은 배너 (RFB 아님): {banner!r}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:37 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:38
+#, python-brace-format
+msgid "échec de connexion VNC : {exc}"
+msgstr "VNC 연결 실패: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:45 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:46
+#, python-brace-format
+msgid "RFB {major}.{minor} : négociation des security types échouée/refusée"
+msgstr "RFB {major}.{minor}: security types 협상 실패/거부됨"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:58 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:59
+#, python-brace-format
+msgid "RFB {major}.{minor}, security types : {type_names}"
+msgstr "RFB {major}.{minor}, security types: {type_names}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:59 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:56
+#, python-brace-format
+msgid "échec du handshake TLS : {exc}"
+msgstr "TLS 핸드셰이크 실패: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:69 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:66
+#, python-brace-format
+msgid "handshake TLS réussi : {tls_version}"
+msgstr "TLS 핸드셰이크 성공: {tls_version}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:71 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:68
+#, python-brace-format
+msgid "certificat subject={subject}"
+msgstr "인증서 subject={subject}"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:45 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:44
+msgid "ECONNREFUSED (RST reçu)"
+msgstr "ECONNREFUSED (RST 수신)"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:56 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:55
+#, python-brace-format
+msgid "erreur réseau : {exc}"
+msgstr "네트워크 오류: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:64 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:63
+msgid "connexion TCP établie"
+msgstr "TCP 연결 성립"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:68 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:67
+msgid "aucune réponse"
+msgstr "응답 없음"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:68 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:67
+#, python-brace-format
+msgid "timeout après {value} tentative(s)"
+msgstr "{value}회 시도 후 시간 초과"
+
+#: omega-check/src/omega_check/infrastructure/storage/sqlite/scan_repository.py:57 omega-deep/src/omega_deep/infrastructure/storage/sqlite/scan_repository.py:68 omega-fold/src/omega_fold/infrastructure/storage/sqlite/scan_repository.py:81
+msgid "échec de sauvegarde du scan {id!r}"
+msgstr "스캔 {id!r} 저장 실패"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:36
+#, python-brace-format
+msgid "{id} -> {id2}"
+msgstr "{id} -> {id2}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:36 omega-check/src/omega_check/interfaces/tui/screens/compare.py:40 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:39 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:43
+#, python-brace-format
+msgid "Ports présents seulement dans {id} :"
+msgstr "{id}에만 있는 포트:"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:47
+msgid "Changements d'état :"
+msgstr "상태 변화:"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:49
+#, python-brace-format
+msgid "  port {port_number} : {value} -> {value2}"
+msgstr "  포트 {port_number}: {value} -> {value2}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:49 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:52
+msgid "Aucune différence détectée."
+msgstr "차이가 발견되지 않았습니다."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:30 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:30 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:29
+msgid "Texte"
+msgstr "텍스트"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:50 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:62
+msgid "Thème (HTML uniquement)"
+msgstr "테마 (HTML 전용)"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:53 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:53 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:51
+msgid "Destination"
+msgstr "목적지"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:84 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:84 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:82
+msgid "Saisissez un chemin de destination."
+msgstr "대상 경로를 입력하세요."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:97 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:97 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:95
+#, python-brace-format
+msgid "Export {fmt} terminé"
+msgstr "{fmt} 내보내기 완료"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:72 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:78
+msgid "Profils de ports système"
+msgstr "시스템 포트 프로필"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:245 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:54 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:53 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+msgid "Description"
+msgstr "설명"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:147 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+msgid "Ports"
+msgstr "포트"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88
+msgid "Épinglé"
+msgstr "고정됨"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:91 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+msgid "non"
+msgstr "아니요"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+msgid "oui"
+msgstr "예"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/history.py:40 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:49 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:41
+msgid "Filtrer par cible..."
+msgstr "대상으로 필터..."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/home.py:31 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:37 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:32
+msgid "Profils"
+msgstr "프로필"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:51 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:37
+msgid "PROFILS"
+msgstr "프로필"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:53 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/duration_preset_table.py:25 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16
+msgid "Nom"
+msgstr "이름"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:54
+msgid "Ports : ex. 80  /  22,443,8080  /  1000-2000"
+msgstr "포트: 예) 80  /  22,443,8080  /  1000-2000"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:57 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:53
+msgid "Créer"
+msgstr "만들기"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:59 omega-track/src/omega_track/interfaces/tui/screens/targets.py:55
+msgid "Modifier"
+msgstr "수정"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:62 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:61 omega-track/src/omega_track/interfaces/tui/screens/targets.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:60
+msgid "Supprimer"
+msgstr "삭제"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:99 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:98
+msgid "Saisissez au moins un port."
+msgstr "포트를 하나 이상 입력하세요."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:104 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:185 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:103
+#, python-brace-format
+msgid "Ports invalides : {exc}"
+msgstr "잘못된 포트: {exc}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:111 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:110
+msgid "Saisissez un nom."
+msgstr "이름을 입력하세요."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:126 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:142 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:125 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:141 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:99 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:112
+msgid "Sélectionnez d'abord un profil."
+msgstr "먼저 프로필을 선택하세요."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:158 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:157
+#, python-brace-format
+msgid "Le profil '{name}' sera définitivement supprimé."
+msgstr "프로필 '{name}'이(가) 영구적으로 삭제됩니다."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:158 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:157
+msgid "SUPPRIMER LE PROFIL ?"
+msgstr "프로필을 삭제하시겠습니까?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:67 omega-fold/src/omega_fold/interfaces/tui/screens/scan_progress.py:91
+#, python-brace-format
+msgid "Scan de {target} en cours..."
+msgstr "{target} 스캔 중..."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:111 omega-deep/src/omega_deep/interfaces/tui/screens/scan_progress.py:117
+#, python-brace-format
+msgid "Résolution DNS impossible pour '{target}'."
+msgstr "'{target}'의 DNS를 확인할 수 없습니다."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:111 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:48 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_progress_screen.py:124
+msgid "Scan échoué"
+msgstr "스캔 실패"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:66 omega-check/src/omega_check/interfaces/tui/screens/targets.py:38 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:64 omega-track/src/omega_track/interfaces/tui/screens/targets.py:48
+msgid "ex. 192.168.1.10, example.org"
+msgstr "예) 192.168.1.10, example.org"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:125 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:101
+#, python-brace-format
+msgid ""
+"{description}\n"
+"Ports ({count}) : {ports_str}"
+msgstr ""
+"{description}\n"
+"포트 ({count}): {ports_str}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:148 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:137
+msgid "PROFIL COMPLET"
+msgstr "전체 프로필"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:81 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:80 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:106
+msgid "Supprimer les exports"
+msgstr "내보내기 삭제"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:82
+msgid "Supprimer les screenshots"
+msgstr "스크린샷 삭제"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:144 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:131 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:130 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:165
+msgid "SUPPRIMER LES EXPORTS ?"
+msgstr "내보내기를 삭제하시겠습니까?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:134 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:133
+msgid "SUPPRIMER LES SCREENSHOTS ?"
+msgstr "스크린샷을 삭제하시겠습니까?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:156 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:143 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:142 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:179
+#, python-brace-format
+msgid ""
+"Tout le contenu de ce dossier sera définitivement supprimé :\n"
+"{directory}"
+msgstr ""
+"이 폴더의 모든 내용이 영구 삭제됩니다:\n"
+"{directory}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:181 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:168 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:167 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:203
+#, python-brace-format
+msgid "{removed} élément(s) supprimé(s) : {directory}"
+msgstr "{removed}개 항목 삭제됨: {directory}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:185 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:172 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:171 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:207
+#, python-brace-format
+msgid "{removed} élément(s) supprimé(s), {count} impossible(s) à supprimer : {shown}"
+msgstr "{removed}개 항목 삭제, {count}개는 삭제할 수 없음: {shown}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:36 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:38
+#, python-brace-format
+msgid "SCAN {id}"
+msgstr "스캔 {id}"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16
+msgid "Logiciel"
+msgstr "소프트웨어"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Port"
+msgstr "포트"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Rôle"
+msgstr "역할"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16
+msgid "Service"
+msgstr "서비스"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "État"
+msgstr "상태"
+
+#: omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:66 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:69
+msgid "Profondeur max"
+msgstr "최대 깊이"
+
+#: omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:28 omega-deep/src/omega_deep/interfaces/tui/widgets/hosts_table.py:21 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205
+msgid "Source"
+msgstr "출처"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:242 omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:29 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205
+msgid "Confiance"
+msgstr "신뢰도"
+
+#: omega-deep/src/omega_deep/interfaces/tui/widgets/hosts_table.py:21 omega-track/src/omega_track/interfaces/tui/screens/results.py:155
+msgid "IP"
+msgstr "IP"
+
+#: omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:47 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Type"
+msgstr "유형"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:90 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:150 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:150 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:156 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_progress_screen.py:83
+msgid "Arrêter"
+msgstr "중지"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:34 omega-track/src/omega_track/interfaces/tui/screens/targets.py:46 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:48
+msgid "CIBLES"
+msgstr "대상"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:101 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:92
+msgid "Sélectionnez d'abord une cible."
+msgstr "먼저 대상을 선택하세요."
+
+#: omega-stress/src/omega_stress/interfaces/tui/widgets/target_table.py:17 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:17
+msgid "Tags"
+msgstr "태그"
+
+#: omega-track/src/omega_track/application/exceptions.py:55 omega-fuzz/src/omega_fuzz/application/exceptions.py:45
+msgid "thème inconnu : {theme_name!r}"
+msgstr "알 수 없는 테마: {theme_name!r}"
+
+#: omega-track/src/omega_track/interfaces/tui/screens/history.py:185 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:143
+msgid "Export terminé"
+msgstr "내보내기 완료"
+
+#: omega-track/src/omega_track/interfaces/tui/screens/targets.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:52
+msgid "Ajouter"
+msgstr "추가"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:42 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:102 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:41 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:112 omega-check/src/omega_check/interfaces/tui/language_setting.py:41 omega-check/src/omega_check/interfaces/tui/language_setting.py:112 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:41 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:112 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:41 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:112 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:41 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:112 omega-track/src/omega_track/interfaces/tui/language_setting.py:41 omega-track/src/omega_track/interfaces/tui/language_setting.py:112 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:41 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:112
+msgid "Comme l'interface"
+msgstr "인터페이스와 같음"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:64 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:98 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:102 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:66 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:75 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:108 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:112 omega-check/src/omega_check/interfaces/tui/language_setting.py:66 omega-check/src/omega_check/interfaces/tui/language_setting.py:75 omega-check/src/omega_check/interfaces/tui/language_setting.py:108 omega-check/src/omega_check/interfaces/tui/language_setting.py:112 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:66 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:75 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:108 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:112 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:66 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:75 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:108 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:112 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:66 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:75 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:108 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:112 omega-track/src/omega_track/interfaces/tui/language_setting.py:66 omega-track/src/omega_track/interfaces/tui/language_setting.py:75 omega-track/src/omega_track/interfaces/tui/language_setting.py:108 omega-track/src/omega_track/interfaces/tui/language_setting.py:112 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:66 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:75 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:108 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:112
+msgid "Langue des exports"
+msgstr "내보내기 언어"
+
+#: omega-scan/src/omega_scan/interfaces/tui/language_setting.py:68 omega-check/src/omega_check/interfaces/tui/language_setting.py:68 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:68 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:68 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:68 omega-track/src/omega_track/interfaces/tui/language_setting.py:68 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:68
+#, python-brace-format
+msgid "Langue des exports choisie dans les réglages de {host}."
+msgstr "내보내기 언어는 {host}의 설정에서 선택합니다."
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:171 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:107 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:119 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:136
+msgid "Cible :"
+msgstr "대상:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:174 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:109 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:121
+msgid "Profil :"
+msgstr "프로필:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:177 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:111 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:124 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:141 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:54
+msgid "Scan ID :"
+msgstr "스캔 ID:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:331 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:43 omega-stress/src/omega_stress/interfaces/tui/widgets/progress_panel.py:24 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:86 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:115
+msgid "Erreurs"
+msgstr "오류"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:18 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:18
+#, python-brace-format
+msgid "Scan ID    : {id}"
+msgstr "스캔 ID    : {id}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:19 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:19
+#, python-brace-format
+msgid "Cible      : {target} ({value})"
+msgstr "대상       : {target} ({value})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:107 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:19 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:119
+msgid "non résolue"
+msgstr "확인 안 됨"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:20 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:20
+#, python-brace-format
+msgid "Date       : {created_at}"
+msgstr "날짜       : {created_at}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:21 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:21
+#, python-brace-format
+msgid "Profil     : {value} (origine: {value2})"
+msgstr "프로필     : {value} (출처: {value2})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:22 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:23
+#, python-brace-format
+msgid "Statut     : {value}"
+msgstr "상태       : {value}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:27 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:115 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:28 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:128
+msgid "Aucun résultat (scan échoué)."
+msgstr "결과 없음 (스캔 실패)."
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:30 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:39
+#, python-brace-format
+msgid "{count} port(s) scanné(s) :"
+msgstr "포트 {count}개 스캔함:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:40 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:45
+#, python-brace-format
+msgid "      protocole : {protocol_name} [{value}]"
+msgstr "      프로토콜  : {protocol_name} [{value}]"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:47 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:52
+#, python-brace-format
+msgid "      rôle      : {role} [{value}]"
+msgstr "      역할      : {role} [{value}]"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:108 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:120 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:138
+msgid "Date :"
+msgstr "날짜:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:109 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:121
+#, python-brace-format
+msgid "{profile_name} (origine : {profile_origin})"
+msgstr "{profile_name} (출처: {profile_origin})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:110 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:123 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:140
+msgid "Statut :"
+msgstr "상태:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:119 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:150
+msgid "Ports scannés"
+msgstr "스캔한 포트"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:120 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:151
+msgid "Ouverts"
+msgstr "열림"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:121 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:152
+msgid "Fermés"
+msgstr "닫힘"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:122 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:153
+msgid "Filtrés"
+msgstr "필터됨"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Protocole"
+msgstr "프로토콜"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Service identifié"
+msgstr "식별된 서비스"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+#, python-brace-format
+msgid "Auth : {value}"
+msgstr "인증: {value}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:193 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:201
+#, python-brace-format
+msgid "(certificat : {tls_cert_subject})"
+msgstr "(인증서: {tls_cert_subject})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:204 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:221 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:239
+msgid "Rapport généré par"
+msgstr "보고서 생성:"
+
+#: omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:122 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:139
+msgid "Mode :"
+msgstr "모드:"
+
+#: omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:58 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:179
+msgid "Résumé"
+msgstr "요약"
+
+#: omega-track/src/omega_track/infrastructure/exporters/markdown_file_exporter.py:27 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:174 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:63
+msgid "aucune"
+msgstr "없음"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:49 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+msgid "non requise"
+msgstr "필요 없음"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:53 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:133 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:137 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:188 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:196
+msgid "présent"
+msgstr "있음"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+msgid "requise"
+msgstr "필요"

@@ -1,0 +1,1108 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: omega-lib\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Omega-Status: testing\n"
+
+#: omega-suite/src/omega_suite/app/clear_all_exports.py:64 omega-check/src/omega_check/application/commands/clear_directory.py:50 omega-deep/src/omega_deep/application/commands/clear_directory.py:50 omega-fold/src/omega_fold/application/commands/clear_directory.py:50 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:50
+msgid "dossier système ou personnel"
+msgstr "सिस्टम या व्यक्तिगत फ़ोल्डर"
+
+#: omega-suite/src/omega_suite/app/clear_all_exports.py:68 omega-check/src/omega_check/application/commands/clear_directory.py:54 omega-deep/src/omega_deep/application/commands/clear_directory.py:54 omega-fold/src/omega_fold/application/commands/clear_directory.py:54 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:54
+msgid "ce n'est pas un dossier"
+msgstr "यह फ़ोल्डर नहीं है"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:56 omega-suite/src/omega_suite/interfaces/tui/app.py:57 omega-suite/src/omega_suite/interfaces/tui/app.py:347 omega-scan/src/omega_scan/interfaces/tui/app.py:53 omega-scan/src/omega_scan/interfaces/tui/app.py:54 omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:31 omega-check/src/omega_check/interfaces/tui/app.py:52 omega-check/src/omega_check/interfaces/tui/app.py:53 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-check/src/omega_check/interfaces/tui/screens/home.py:35 omega-deep/src/omega_deep/interfaces/tui/app.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:53 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:34 omega-fold/src/omega_fold/interfaces/tui/app.py:60 omega-fold/src/omega_fold/interfaces/tui/app.py:61 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:32 omega-stress/src/omega_stress/interfaces/tui/app.py:56 omega-stress/src/omega_stress/interfaces/tui/app.py:61 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:41 omega-track/src/omega_track/interfaces/tui/app.py:53 omega-track/src/omega_track/interfaces/tui/app.py:54 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-track/src/omega_track/interfaces/tui/screens/home.py:39 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:54 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:40
+msgid "Quitter"
+msgstr "बाहर निकलें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:58 omega-scan/src/omega_scan/interfaces/tui/app.py:55 omega-check/src/omega_check/interfaces/tui/app.py:54 omega-deep/src/omega_deep/interfaces/tui/app.py:54 omega-fold/src/omega_fold/interfaces/tui/app.py:62 omega-stress/src/omega_stress/interfaces/tui/app.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/app.py:55 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:55
+msgid "Thème suivant"
+msgstr "अगली थीम"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:59 omega-scan/src/omega_scan/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/app.py:55 omega-deep/src/omega_deep/interfaces/tui/app.py:55 omega-fold/src/omega_fold/interfaces/tui/app.py:63 omega-stress/src/omega_stress/interfaces/tui/app.py:55 omega-track/src/omega_track/interfaces/tui/app.py:56 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:56
+msgid "Rafraîchir"
+msgstr "रीफ़्रेश"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:60 omega-suite/src/omega_suite/interfaces/tui/app.py:345 omega-scan/src/omega_scan/interfaces/tui/app.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:30 omega-check/src/omega_check/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/screens/home.py:34 omega-deep/src/omega_deep/interfaces/tui/app.py:56 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:33 omega-fold/src/omega_fold/interfaces/tui/app.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:31 omega-stress/src/omega_stress/interfaces/tui/app.py:54 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:39 omega-track/src/omega_track/interfaces/tui/app.py:57 omega-track/src/omega_track/interfaces/tui/screens/home.py:38 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:39
+msgid "Aide"
+msgstr "सहायता"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:61 omega-suite/src/omega_suite/interfaces/tui/app.py:344 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:29 omega-check/src/omega_check/interfaces/tui/screens/home.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:32 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:37 omega-track/src/omega_track/interfaces/tui/screens/home.py:37 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:37
+msgid "Réglages"
+msgstr "सेटिंग्स"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:273 omega-check/src/omega_check/interfaces/tui/app.py:86 omega-deep/src/omega_deep/interfaces/tui/app.py:86 omega-fold/src/omega_fold/interfaces/tui/app.py:94 omega-track/src/omega_track/interfaces/tui/app.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:91
+#, python-brace-format
+msgid "Terminal détecté : {family} ({columns}x{rows}). Rendu appliqué : {value}."
+msgstr "टर्मिनल पहचाना गया: {family} ({columns}x{rows})। लागू रेंडरिंग: {value}।"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:284 omega-suite/src/omega_suite/interfaces/tui/app.py:314 omega-scan/src/omega_scan/interfaces/tui/app.py:97 omega-scan/src/omega_scan/interfaces/tui/app.py:142 omega-check/src/omega_check/interfaces/tui/app.py:97 omega-check/src/omega_check/interfaces/tui/app.py:135 omega-deep/src/omega_deep/interfaces/tui/app.py:97 omega-deep/src/omega_deep/interfaces/tui/app.py:135 omega-fold/src/omega_fold/interfaces/tui/app.py:105 omega-fold/src/omega_fold/interfaces/tui/app.py:143 omega-stress/src/omega_stress/interfaces/tui/app.py:154 omega-track/src/omega_track/interfaces/tui/app.py:94 omega-track/src/omega_track/interfaces/tui/app.py:132 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:144
+#, python-brace-format
+msgid "{theme} | {columns}x{rows}"
+msgstr "{theme} | {columns}x{rows}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:303 omega-scan/src/omega_scan/interfaces/tui/app.py:127 omega-check/src/omega_check/interfaces/tui/app.py:127 omega-deep/src/omega_deep/interfaces/tui/app.py:127 omega-fold/src/omega_fold/interfaces/tui/app.py:135 omega-track/src/omega_track/interfaces/tui/app.py:124 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:136
+#, python-brace-format
+msgid "Thème appliqué mais non enregistré : {exc}"
+msgstr "थीम लागू हुई लेकिन सेव नहीं हुई: {exc}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:316 omega-scan/src/omega_scan/interfaces/tui/app.py:143 omega-check/src/omega_check/interfaces/tui/app.py:137 omega-deep/src/omega_deep/interfaces/tui/app.py:137 omega-fold/src/omega_fold/interfaces/tui/app.py:145 omega-stress/src/omega_stress/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/app.py:134 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:146
+#, python-brace-format
+msgid "{family} ({columns}x{rows})"
+msgstr "{family} ({columns}x{rows})"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:317 omega-scan/src/omega_scan/interfaces/tui/app.py:143 omega-check/src/omega_check/interfaces/tui/app.py:138 omega-deep/src/omega_deep/interfaces/tui/app.py:138 omega-fold/src/omega_fold/interfaces/tui/app.py:146 omega-stress/src/omega_stress/interfaces/tui/app.py:149 omega-track/src/omega_track/interfaces/tui/app.py:135 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:147
+msgid "Terminal rafraîchi"
+msgstr "टर्मिनल रीफ़्रेश किया गया"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158
+msgid "Changer le thème actif"
+msgstr "सक्रिय थीम बदलें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:48 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:43 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:51 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:64 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:73 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:72
+msgid "Thème"
+msgstr "थीम"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:350 omega-scan/src/omega_scan/interfaces/tui/app.py:159 omega-check/src/omega_check/interfaces/tui/app.py:152 omega-deep/src/omega_deep/interfaces/tui/app.py:152 omega-fold/src/omega_fold/interfaces/tui/app.py:160 omega-stress/src/omega_stress/interfaces/tui/app.py:199 omega-track/src/omega_track/interfaces/tui/app.py:151
+msgid "Capture d'écran"
+msgstr "स्क्रीनशॉट"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:351 omega-scan/src/omega_scan/interfaces/tui/app.py:160 omega-check/src/omega_check/interfaces/tui/app.py:153 omega-deep/src/omega_deep/interfaces/tui/app.py:153 omega-fold/src/omega_fold/interfaces/tui/app.py:161 omega-stress/src/omega_stress/interfaces/tui/app.py:200 omega-track/src/omega_track/interfaces/tui/app.py:152
+msgid "Enregistrer une capture SVG de l'écran courant"
+msgstr "वर्तमान स्क्रीन का SVG स्क्रीनशॉट सेव करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:375 omega-scan/src/omega_scan/interfaces/tui/app.py:183 omega-check/src/omega_check/interfaces/tui/app.py:172 omega-deep/src/omega_deep/interfaces/tui/app.py:172 omega-fold/src/omega_fold/interfaces/tui/app.py:180 omega-stress/src/omega_stress/interfaces/tui/app.py:242 omega-track/src/omega_track/interfaces/tui/app.py:184 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:187
+msgid "Erreur inattendue"
+msgstr "अप्रत्याशित त्रुटि"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:32 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:31 omega-check/src/omega_check/interfaces/tui/language_setting.py:31 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:31 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:31 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:31 omega-track/src/omega_track/interfaces/tui/language_setting.py:31 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:31
+msgid "en test"
+msgstr "परीक्षण में"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:32 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:31 omega-check/src/omega_check/interfaces/tui/language_setting.py:31 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:31 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:31 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:31 omega-track/src/omega_track/interfaces/tui/language_setting.py:31 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:31
+#, python-brace-format
+msgid "{label} ({value})"
+msgstr "{label} ({value})"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:84 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:94 omega-check/src/omega_check/interfaces/tui/language_setting.py:94 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:94 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:94 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:94 omega-track/src/omega_track/interfaces/tui/language_setting.py:94 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:94
+msgid "REDÉMARRER L'INTERFACE ?"
+msgstr "इंटरफ़ेस रीस्टार्ट करें?"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:86 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:96 omega-check/src/omega_check/interfaces/tui/language_setting.py:96 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:96 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:96 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:96 omega-track/src/omega_track/interfaces/tui/language_setting.py:96 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:96
+#, python-brace-format
+msgid "La langue « {name} » sera appliquée après le redémarrage de l'interface."
+msgstr "भाषा “{name}” इंटरफ़ेस को फिर से शुरू करने के बाद लागू होगी।"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:131 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:141 omega-check/src/omega_check/interfaces/tui/language_setting.py:141 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:141 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:141 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:142 omega-track/src/omega_track/interfaces/tui/language_setting.py:141 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:141
+#, python-brace-format
+msgid "{LANGUAGE_LABEL} : {native_name}"
+msgstr "{LANGUAGE_LABEL}: {native_name}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:134 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:144 omega-check/src/omega_check/interfaces/tui/language_setting.py:144 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:144 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:144 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:149 omega-track/src/omega_track/interfaces/tui/language_setting.py:144 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:144
+#, python-brace-format
+msgid "Langue « {code} » indisponible : interface en français."
+msgstr "भाषा « {code} » उपलब्ध नहीं: इंटरफ़ेस फ़्रेंच में।"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:141 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:151 omega-check/src/omega_check/interfaces/tui/language_setting.py:151 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:151 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:151 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:159 omega-track/src/omega_track/interfaces/tui/language_setting.py:151 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:151
+#, python-brace-format
+msgid "Ce terminal (console texte) ne peut pas afficher la langue « {name} » : interface en anglais pour cette session. Le réglage est conservé - la langue revient dans un terminal graphique."
+msgstr "यह टर्मिनल (टेक्स्ट कंसोल) भाषा « {name} » नहीं दिखा सकता: इस सेशन के लिए इंटरफ़ेस अंग्रेज़ी में। सेटिंग बनी रहती है - ग्राफ़िकल टर्मिनल में भाषा वापस आ जाती है।"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:24 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:41 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:49 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:63 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:71 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:70
+msgid "RÉGLAGES"
+msgstr "सेटिंग्स"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:26 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:95 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:69 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:69 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:89 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:118 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:47
+msgid "AIDE"
+msgstr "सहायता"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:40 omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:88 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/compare.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:85 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:112 omega-scan/src/omega_scan/interfaces/tui/screens/history.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:71 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:47 omega-check/src/omega_check/interfaces/tui/screens/_base.py:20 omega-check/src/omega_check/interfaces/tui/screens/compare.py:52 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:77 omega-check/src/omega_check/interfaces/tui/screens/history.py:52 omega-check/src/omega_check/interfaces/tui/screens/home.py:45 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:64 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:96 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:91 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:46 omega-check/src/omega_check/interfaces/tui/screens/targets.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:59 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:86 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:85 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:72 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/_base.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:92 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:116 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:158 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:103 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:51 omega-track/src/omega_track/interfaces/tui/screens/_base.py:20 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:127 omega-track/src/omega_track/interfaces/tui/screens/geoip_configuration.py:74 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:132 omega-track/src/omega_track/interfaces/tui/screens/history.py:82 omega-track/src/omega_track/interfaces/tui/screens/home.py:57 omega-track/src/omega_track/interfaces/tui/screens/results.py:145 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:112 omega-track/src/omega_track/interfaces/tui/screens/source_configuration.py:57 omega-track/src/omega_track/interfaces/tui/screens/targets.py:61 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:102 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:69 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:47 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:50 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:65 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:113 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:62
+msgid "Retour"
+msgstr "वापस"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:42 omega-check/src/omega_check/interfaces/tui/screens/_base.py:21 omega-check/src/omega_check/interfaces/tui/screens/home.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:43 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:54 omega-track/src/omega_track/interfaces/tui/screens/_base.py:21 omega-track/src/omega_track/interfaces/tui/screens/home.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:51
+msgid "Monter"
+msgstr "ऊपर"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:42 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:43 omega-check/src/omega_check/interfaces/tui/screens/_base.py:22 omega-check/src/omega_check/interfaces/tui/screens/home.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:55 omega-track/src/omega_track/interfaces/tui/screens/_base.py:22 omega-track/src/omega_track/interfaces/tui/screens/home.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:52
+msgid "Descendre"
+msgstr "नीचे"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:20 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:35 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:21 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:36 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:60 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:37 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:58 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:33 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:55 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:21 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:36 omega-track/src/omega_track/interfaces/tui/screens/progress.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:38
+msgid "Annuler"
+msgstr "रद्द करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:34 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:34 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:34 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:35 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:36
+msgid "Confirmer"
+msgstr "पुष्टि करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+msgid "Haut / Bas"
+msgstr "Up / Down"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+msgid "Naviguer entre les éléments d'un écran"
+msgstr "स्क्रीन के तत्वों के बीच नेविगेट करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+msgid "Naviguer entre les champs d'un formulaire"
+msgstr "फ़ॉर्म के फ़ील्ड के बीच नेविगेट करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+msgid "Tab / Maj+Tab"
+msgstr "Tab / Shift+Tab"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+msgid "Retour à l'écran précédent (confirmation de sortie sur l'accueil)"
+msgstr "पिछली स्क्रीन पर वापसी (होम पर बाहर निकलने की पुष्टि)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+msgid "Échap"
+msgstr "Esc"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:16 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:20 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:27
+msgid "Thème suivant (appliqué immédiatement, sans confirmation)"
+msgstr "अगली थीम (तुरंत लागू, बिना पुष्टि)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:17 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:28
+msgid "Rafraîchir la détection du terminal"
+msgstr "टर्मिनल पहचान रीफ़्रेश करें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:96 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:64 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:70 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:119 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:48
+msgid "Raccourcis clavier"
+msgstr "कीबोर्ड शॉर्टकट"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:98 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:66 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:72 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:72 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:92 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:121 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:50
+#, python-brace-format
+msgid "{key:<14} {description}"
+msgstr "{key:<14} {description}"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/quit_confirm.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/quit_confirm.py:23 omega-check/src/omega_check/interfaces/tui/screens/quit_confirm.py:24 omega-deep/src/omega_deep/interfaces/tui/screens/quit_confirm.py:24 omega-fold/src/omega_fold/interfaces/tui/screens/quit_confirm.py:25 omega-stress/src/omega_stress/interfaces/tui/screens/quit_confirm.py:27 omega-track/src/omega_track/interfaces/tui/screens/quit_confirm.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/quit_confirm.py:24
+msgid "Oui, quitter"
+msgstr "हाँ, बाहर निकलें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/quit_confirm.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/quit_confirm.py:25 omega-check/src/omega_check/interfaces/tui/screens/quit_confirm.py:26 omega-deep/src/omega_deep/interfaces/tui/screens/quit_confirm.py:26 omega-fold/src/omega_fold/interfaces/tui/screens/quit_confirm.py:27 omega-stress/src/omega_stress/interfaces/tui/screens/quit_confirm.py:29 omega-track/src/omega_track/interfaces/tui/screens/quit_confirm.py:26 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/quit_confirm.py:26
+msgid "Non, continuer"
+msgstr "नहीं, जारी रखें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:56 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:50 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:54 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:75
+msgid "Profil de rendu (redémarrage requis)"
+msgstr "रेंडरिंग प्रोफ़ाइल (रीस्टार्ट आवश्यक)"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:59 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:53 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:57 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:56 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:35 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:78
+msgid "Automatique"
+msgstr "स्वचालित"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:75 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:77 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:76 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:75 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:101
+msgid "Purge"
+msgstr "सफ़ाई"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:125 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:119 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:122 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:117 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:116 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:146
+msgid "Appliqué au prochain démarrage."
+msgstr "अगली बार शुरू होने पर लागू।"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:141 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:119 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:122 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:117 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:116 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:72 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:146
+msgid "Profil de rendu"
+msgstr "रेंडरिंग प्रोफ़ाइल"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:161 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:165 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:152 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:151 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:188
+msgid "Suppression en cours..."
+msgstr "हटाया जा रहा है..."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/splash.py:23 omega-scan/src/omega_scan/interfaces/tui/screens/splash.py:26 omega-check/src/omega_check/interfaces/tui/screens/splash.py:26 omega-deep/src/omega_deep/interfaces/tui/screens/splash.py:26 omega-fold/src/omega_fold/interfaces/tui/screens/splash.py:27 omega-track/src/omega_track/interfaces/tui/screens/splash.py:26 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/splash.py:27
+msgid "Appuyez sur une touche pour continuer..."
+msgstr "जारी रखने के लिए कोई कुंजी दबाएँ..."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/terminal_warning.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/terminal_warning.py:24 omega-check/src/omega_check/interfaces/tui/screens/terminal_warning.py:25 omega-deep/src/omega_deep/interfaces/tui/screens/terminal_warning.py:25 omega-fold/src/omega_fold/interfaces/tui/screens/terminal_warning.py:26 omega-stress/src/omega_stress/interfaces/tui/screens/terminal_warning.py:25 omega-track/src/omega_track/interfaces/tui/screens/terminal_warning.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/terminal_warning.py:25
+msgid "TERMINAL LIMITÉ"
+msgstr "सीमित टर्मिनल"
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/terminal_warning.py:25 omega-scan/src/omega_scan/interfaces/tui/screens/terminal_warning.py:27 omega-check/src/omega_check/interfaces/tui/screens/terminal_warning.py:28 omega-deep/src/omega_deep/interfaces/tui/screens/terminal_warning.py:28 omega-fold/src/omega_fold/interfaces/tui/screens/terminal_warning.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/terminal_warning.py:28 omega-track/src/omega_track/interfaces/tui/screens/terminal_warning.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/terminal_warning.py:28
+msgid "Continuer quand même"
+msgstr "फिर भी जारी रखें"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/files/json_settings_store.py:40 omega-stress/src/omega_stress/infrastructure/storage/files/json_settings_store.py:42
+#, python-brace-format
+msgid "Échec de lecture de {path} : {exc}"
+msgstr "{path} पढ़ने में विफल: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/files/json_settings_store.py:48 omega-stress/src/omega_stress/infrastructure/storage/files/json_settings_store.py:52
+#, python-brace-format
+msgid "Échec d'écriture de {path} : {exc}"
+msgstr "{path} लिखने में विफल: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/sqlite/migrations.py:22 omega-stress/src/omega_stress/infrastructure/storage/sqlite/migrations.py:23
+#, python-brace-format
+msgid "Échec de l'initialisation du schéma SQLite : {exc}"
+msgstr "SQLite स्कीमा आरंभ करने में विफल: {exc}"
+
+#: omega-scan/src/omega_scan/infrastructure/storage/sqlite/target_repository.py:67 omega-stress/src/omega_stress/infrastructure/storage/sqlite/target_repository.py:98
+#, python-brace-format
+msgid "Échec de listage des cibles épinglées : {exc}"
+msgstr "पिन किए गए लक्ष्यों की सूची बनाने में विफल: {exc}"
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:85 omega-stress/src/omega_stress/interfaces/tui/app.py:91
+#, python-brace-format
+msgid "Terminal détecté : {family} ({columns}x{rows}). Rendu appliqué : {render_profile}."
+msgstr "टर्मिनल का पता चला: {family} ({columns}x{rows})। लागू रेंडरिंग: {render_profile}।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160
+msgid "Quitter l'application (avec confirmation)"
+msgstr "एप्लिकेशन से बाहर निकलें (पुष्टि के साथ)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/app.py:180 omega-track/src/omega_track/interfaces/tui/app.py:181 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:184
+msgid "Exception non prévue"
+msgstr "अप्रत्याशित अपवाद"
+
+#: omega-scan/src/omega_scan/interfaces/tui/language_setting.py:63 omega-check/src/omega_check/interfaces/tui/language_setting.py:63 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:63 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:63 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:63 omega-track/src/omega_track/interfaces/tui/language_setting.py:63 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:63
+#, python-brace-format
+msgid "Langue choisie dans les réglages de {host}."
+msgstr "भाषा {host} की सेटिंग्स में चुनी गई है।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:35 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:43
+msgid "EXPORTER LE SCAN"
+msgstr "स्कैन निर्यात करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:47 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:45 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:54
+msgid "Format"
+msgstr "फ़ॉर्मैट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:55 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:83 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:58 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:73 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:56 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:55 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:68 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:50 omega-track/src/omega_track/interfaces/tui/screens/history.py:80
+msgid "Exporter"
+msgstr "एक्सपोर्ट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:18 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:23 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:24 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:29
+msgid "Cette aide"
+msgstr "यह सहायता"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:19 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:24 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:25 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:30
+msgid "Quitter (avec confirmation)"
+msgstr "बाहर निकलें (पुष्टि के साथ)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Paramètre"
+msgstr "पैरामीटर"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:77
+msgid "Non"
+msgstr "नहीं"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:35 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:324 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:74
+msgid "Oui"
+msgstr "हाँ"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:26 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:27 omega-check/src/omega_check/interfaces/tui/screens/home.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:35
+msgid "Scanner"
+msgstr "स्कैन करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:60 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:28 omega-check/src/omega_check/interfaces/tui/screens/home.py:30 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:42 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:34 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:102 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:30 omega-track/src/omega_track/interfaces/tui/screens/home.py:32 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:36
+msgid "Cibles"
+msgstr "लक्ष्य"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:67 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:27 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:35 omega-check/src/omega_check/interfaces/tui/screens/home.py:32 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:37 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:31 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:38 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:47 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:35 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:98 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:71 omega-track/src/omega_track/interfaces/tui/screens/home.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:38
+msgid "Historique"
+msgstr "इतिहास"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:74 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:60 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:42 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:65 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:45 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:63 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:83
+msgid "Export"
+msgstr "एक्सपोर्ट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:100 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:68 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:74 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:74 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:94 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:123
+msgid "Fonctions"
+msgstr "कार्य"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:37 omega-check/src/omega_check/interfaces/tui/screens/history.py:39 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:38 omega-track/src/omega_track/interfaces/tui/screens/history.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:40
+msgid "HISTORIQUE"
+msgstr "इतिहास"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:42 omega-check/src/omega_check/interfaces/tui/screens/history.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:47 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:42 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:45
+msgid "Voir le détail"
+msgstr "विवरण देखें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:44 omega-check/src/omega_check/interfaces/tui/screens/history.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:49
+msgid "Marquer comme référence"
+msgstr "संदर्भ के रूप में चिह्नित करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:46 omega-check/src/omega_check/interfaces/tui/screens/history.py:48 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:51
+msgid "Comparer avec la référence"
+msgstr "संदर्भ से तुलना करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:48 omega-check/src/omega_check/interfaces/tui/screens/history.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:53 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:57 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:46 omega-track/src/omega_track/interfaces/tui/screens/history.py:68
+msgid "Rejouer"
+msgstr "फिर से चलाएँ"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:82 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:98 omega-check/src/omega_check/interfaces/tui/screens/history.py:76 omega-check/src/omega_check/interfaces/tui/screens/targets.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:79 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:91 omega-track/src/omega_track/interfaces/tui/screens/history.py:136 omega-track/src/omega_track/interfaces/tui/screens/history.py:142 omega-track/src/omega_track/interfaces/tui/screens/history.py:172 omega-track/src/omega_track/interfaces/tui/screens/targets.py:121 omega-track/src/omega_track/interfaces/tui/screens/targets.py:139 omega-track/src/omega_track/interfaces/tui/screens/targets.py:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:95
+msgid "Sélectionnez d'abord une ligne."
+msgstr "पहले एक पंक्ति चुनें।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:89 omega-check/src/omega_check/interfaces/tui/screens/history.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:86
+#, python-brace-format
+msgid "Référence : {reference_scan_id}"
+msgstr "संदर्भ: {reference_scan_id}"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:92 omega-check/src/omega_check/interfaces/tui/screens/history.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:89
+msgid "Marquez d'abord une référence."
+msgstr "पहले एक संदर्भ चिह्नित करें।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/history.py:107 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:114 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:125
+msgid "Scan introuvable."
+msgstr "स्कैन नहीं मिला।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/home.py:60 omega-check/src/omega_check/interfaces/tui/screens/home.py:64 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:63 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:61 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:72 omega-track/src/omega_track/interfaces/tui/screens/home.py:76 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:75
+msgid "MENU PRINCIPAL"
+msgstr "मुख्य मेन्यू"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:43 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:61
+msgid "(saisie libre ci-dessous)"
+msgstr "(नीचे स्वतंत्र प्रविष्टि)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:51 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:56 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:40
+msgid "SCANNER UNE CIBLE"
+msgstr "लक्ष्य स्कैन करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:54 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:58 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:27 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:42 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/interfaces/tui/widgets/target_picker.py:27 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:60 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:67 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:78 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:67 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:29 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:158
+msgid "Cible"
+msgstr "लक्ष्य"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:56 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:68 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:66 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:67
+msgid "Profil"
+msgstr "प्रोफ़ाइल"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:69 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:94 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:84 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:148 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:148 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:154 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:100 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:63
+msgid "Lancer"
+msgstr "शुरू करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:95 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:136 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:125 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:98 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:125
+msgid "Saisissez une cible."
+msgstr "एक लक्ष्य दर्ज करें।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:66 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:71 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:70 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:69 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:85
+msgid "Captures d'écran"
+msgstr "स्क्रीनशॉट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:75 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:96
+msgid "Effacer toutes les cibles"
+msgstr "सभी लक्ष्य मिटाएँ"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:77 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:80 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:79 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:78 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:100 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:104
+msgid "Vider l'historique"
+msgstr "इतिहास खाली करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:127 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:130
+msgid "EFFACER TOUTES LES CIBLES ?"
+msgstr "सभी लक्ष्य मिटाएँ?"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:135 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:130 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:125 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:124 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:141 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:154
+msgid "VIDER L'HISTORIQUE ?"
+msgstr "इतिहास खाली करें?"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:136 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:131 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:125
+msgid "Tous les scans persistés seront définitivement supprimés."
+msgstr "सहेजे गए सभी स्कैन स्थायी रूप से हटा दिए जाएँगे।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:151 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:193 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:180 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:179 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:181 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:215
+msgid "Historique vidé."
+msgstr "इतिहास खाली किया गया।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:35 omega-check/src/omega_check/interfaces/tui/screens/targets.py:36
+msgid "CIBLES ÉPINGLÉES"
+msgstr "पिन किए गए लक्ष्य"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:40 omega-check/src/omega_check/interfaces/tui/screens/targets.py:39
+msgid "Note (optionnel)"
+msgstr "नोट (वैकल्पिक)"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:43 omega-check/src/omega_check/interfaces/tui/screens/targets.py:42 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:47 omega-track/src/omega_track/interfaces/tui/screens/targets.py:57
+msgid "Épingler"
+msgstr "पिन करें"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:126 omega-track/src/omega_track/interfaces/tui/screens/results.py:155 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:222
+msgid "Hôte"
+msgstr "होस्ट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17
+msgid "Note"
+msgstr "नोट"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:51 omega-check/src/omega_check/interfaces/tui/widgets/targets_table.py:17
+msgid "Épinglé le"
+msgstr "पिन किया गया"
+
+#: omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:81 omega-check/src/omega_check/interfaces/tui/screens/targets.py:67
+msgid "Saisissez un hôte."
+msgstr "एक होस्ट दर्ज करें।"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16 omega-stress/src/omega_stress/interfaces/tui/widgets/target_table.py:17 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52
+msgid "Statut"
+msgstr "स्थिति"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:239 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Sévérité"
+msgstr "गंभीरता"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/findings_table.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Titre"
+msgstr "शीर्षक"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18
+msgid "Date"
+msgstr "तारीख"
+
+#: omega-scan/src/omega_scan/interfaces/tui/widgets/history_table.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:52
+msgid "Findings"
+msgstr "निष्कर्ष"
+
+#: omega-check/src/omega_check/application/commands/clear_directory.py:35 omega-deep/src/omega_deep/application/commands/clear_directory.py:35 omega-fold/src/omega_fold/application/commands/clear_directory.py:35 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:35
+#, python-brace-format
+msgid "Dossier refusé ({reason}) : {path}"
+msgstr "फ़ोल्डर अस्वीकृत ({reason}): {path}"
+
+#: omega-check/src/omega_check/application/commands/create_profile.py:19 omega-deep/src/omega_deep/application/commands/create_profile.py:19
+#, python-brace-format
+msgid "Un profil utilisateur '{name}' existe déjà"
+msgstr "उपयोगकर्ता प्रोफ़ाइल '{name}' पहले से मौजूद है"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:77 omega-deep/src/omega_deep/application/commands/run_scan.py:89
+#, python-format
+msgid "Résolution DNS de %r..."
+msgstr "%r का DNS रिज़ॉल्यूशन..."
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:81 omega-deep/src/omega_deep/application/commands/run_scan.py:93
+#, python-format
+msgid "Résolution DNS échouée pour %r : %s"
+msgstr "%r का DNS रिज़ॉल्यूशन विफल: %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:86 omega-deep/src/omega_deep/application/commands/run_scan.py:98
+#, python-format
+msgid "Cible résolue : %s -> %s"
+msgstr "लक्ष्य रिज़ॉल्व हुआ: %s -> %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:91 omega-deep/src/omega_deep/application/commands/scan_host.py:50
+#, python-format
+msgid "Scan du port %s/%s..."
+msgstr "पोर्ट %s/%s स्कैन हो रहा है..."
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:94 omega-deep/src/omega_deep/application/commands/scan_host.py:53
+#, python-format
+msgid "Port %s/%s : %s"
+msgstr "पोर्ट %s/%s: %s"
+
+#: omega-check/src/omega_check/application/commands/run_scan.py:97 omega-deep/src/omega_deep/application/commands/scan_host.py:56
+#, python-format
+msgid "Identification du service sur le port %s..."
+msgstr "पोर्ट %s पर सेवा की पहचान हो रही है..."
+
+#: omega-check/src/omega_check/application/exceptions.py:26 omega-deep/src/omega_deep/application/exceptions.py:27
+#, python-brace-format
+msgid "Échec de résolution DNS : {target}"
+msgstr "DNS रिज़ॉल्यूशन विफल: {target}"
+
+#: omega-check/src/omega_check/application/exceptions.py:38 omega-deep/src/omega_deep/application/exceptions.py:39 omega-fold/src/omega_fold/application/exceptions.py:18
+#, python-brace-format
+msgid "Thème inconnu : '{theme_name}'"
+msgstr "अज्ञात थीम: '{theme_name}'"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:20 omega-deep/src/omega_deep/domain/profiles/defaults.py:21
+msgid "Scan ultra-rapide : SSH + HTTP + HTTPS"
+msgstr "अति-तेज़ स्कैन: SSH + HTTP + HTTPS"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:26 omega-deep/src/omega_deep/domain/profiles/defaults.py:27
+msgid "Services classiques Internet / LAN"
+msgstr "सामान्य इंटरनेट / LAN सेवाएँ"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:36 omega-deep/src/omega_deep/domain/profiles/defaults.py:37
+msgid "Services web et alternatives"
+msgstr "वेब सेवाएँ और वैकल्पिक पोर्ट"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:42 omega-deep/src/omega_deep/domain/profiles/defaults.py:43
+msgid "Bases de données et services de données"
+msgstr "डेटाबेस और डेटा सेवाएँ"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:48 omega-deep/src/omega_deep/domain/profiles/defaults.py:49
+msgid "Accès distants (shell, bureau, RustDesk)"
+msgstr "रिमोट एक्सेस (shell, डेस्कटॉप, RustDesk)"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:54 omega-deep/src/omega_deep/domain/profiles/defaults.py:55
+msgid "Services de messagerie"
+msgstr "ईमेल सेवाएँ"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:60 omega-deep/src/omega_deep/domain/profiles/defaults.py:61
+msgid "Services DNS"
+msgstr "DNS सेवाएँ"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:66 omega-deep/src/omega_deep/domain/profiles/defaults.py:67
+msgid "Équipements IoT, caméras, box, domotique"
+msgstr "IoT उपकरण, कैमरे, राउटर, स्मार्ट होम"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:72 omega-deep/src/omega_deep/domain/profiles/defaults.py:73
+msgid "Environnements de dev / lab"
+msgstr "डेव / लैब वातावरण"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:78 omega-deep/src/omega_deep/domain/profiles/defaults.py:79
+msgid "Docker, Swarm et services courants en containers"
+msgstr "Docker, Swarm और सामान्य कंटेनर सेवाएँ"
+
+#: omega-check/src/omega_check/domain/profiles/defaults.py:97 omega-deep/src/omega_deep/domain/profiles/defaults.py:98
+msgid "TOUS les profils système (scan exhaustif, long)"
+msgstr "सभी सिस्टम प्रोफ़ाइल (संपूर्ण स्कैन, लंबा)"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:13 omega-deep/src/omega_deep/domain/profiles/exceptions.py:13
+#, python-brace-format
+msgid "Port hors plage (1-65535) : {port}"
+msgstr "सीमा से बाहर पोर्ट (1-65535): {port}"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:21 omega-deep/src/omega_deep/domain/profiles/exceptions.py:21
+#, python-brace-format
+msgid "Ports en double : {value}"
+msgstr "दोहराए गए पोर्ट: {value}"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:29 omega-deep/src/omega_deep/domain/profiles/exceptions.py:29
+#, python-brace-format
+msgid "'{name}' est un nom de profil système réservé"
+msgstr "'{name}' एक आरक्षित सिस्टम प्रोफ़ाइल नाम है"
+
+#: omega-check/src/omega_check/domain/profiles/exceptions.py:37 omega-deep/src/omega_deep/domain/profiles/exceptions.py:37
+#, python-brace-format
+msgid "Profil introuvable : '{name}'"
+msgstr "प्रोफ़ाइल नहीं मिली: '{name}'"
+
+#: omega-check/src/omega_check/domain/scans/exceptions.py:11 omega-deep/src/omega_deep/domain/scans/exceptions.py:11 omega-fold/src/omega_fold/domain/scans/exceptions.py:11
+#, python-brace-format
+msgid "Scan introuvable : '{scan_id}'"
+msgstr "स्कैन नहीं मिला: '{scan_id}'"
+
+#: omega-check/src/omega_check/domain/services/policies.py:65 omega-deep/src/omega_deep/domain/services/policies.py:64
+msgid "AWS ELB (pas un WAF applicatif à proprement parler)"
+msgstr "AWS ELB (सख्ती से कहें तो एप्लिकेशन WAF नहीं)"
+
+#: omega-check/src/omega_check/domain/services/policies.py:180 omega-deep/src/omega_deep/domain/services/policies.py:169
+msgid "serveur web"
+msgstr "वेब सर्वर"
+
+#: omega-check/src/omega_check/domain/services/policies.py:182 omega-deep/src/omega_deep/domain/services/policies.py:171
+msgid "accès shell"
+msgstr "shell एक्सेस"
+
+#: omega-check/src/omega_check/domain/services/policies.py:184 omega-deep/src/omega_deep/domain/services/policies.py:173
+msgid "accès graphique"
+msgstr "ग्राफ़िकल एक्सेस"
+
+#: omega-check/src/omega_check/domain/services/policies.py:186 omega-deep/src/omega_deep/domain/services/policies.py:175
+msgid "base de données"
+msgstr "डेटाबेस"
+
+#: omega-check/src/omega_check/infrastructure/network/httpx_http_prober.py:50 omega-deep/src/omega_deep/infrastructure/network/httpx_http_prober.py:45
+#, python-brace-format
+msgid "échec de la requête HTTP : {exc}"
+msgstr "HTTP अनुरोध विफल: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/httpx_http_prober.py:62 omega-deep/src/omega_deep/infrastructure/network/httpx_http_prober.py:57
+#, python-brace-format
+msgid "header Server: {server}"
+msgstr "Server हेडर: {server}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:22 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:23
+#, python-brace-format
+msgid "échec de connexion : {exc}"
+msgstr "कनेक्शन विफल: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:25 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:26
+msgid "connexion établie, aucun banner reçu"
+msgstr "कनेक्शन बना, कोई बैनर नहीं मिला"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_generic_banner_prober.py:34 omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:40 omega-deep/src/omega_deep/infrastructure/network/socket_generic_banner_prober.py:35 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:41
+#, python-brace-format
+msgid "banner : {banner}"
+msgstr "बैनर: {banner}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:23 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:24
+#, python-brace-format
+msgid "échec de connexion SSH : {exc}"
+msgstr "SSH कनेक्शन विफल: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_ssh_prober.py:29 omega-deep/src/omega_deep/infrastructure/network/socket_ssh_prober.py:30
+msgid "banner inattendu (pas SSH) : {banner!r}"
+msgstr "अप्रत्याशित बैनर (SSH नहीं): {banner!r}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:30 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:31
+msgid "banner inattendu (pas RFB) : {banner!r}"
+msgstr "अप्रत्याशित बैनर (RFB नहीं): {banner!r}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:37 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:38
+#, python-brace-format
+msgid "échec de connexion VNC : {exc}"
+msgstr "VNC कनेक्शन विफल: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:45 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:46
+#, python-brace-format
+msgid "RFB {major}.{minor} : négociation des security types échouée/refusée"
+msgstr "RFB {major}.{minor}: security types की बातचीत विफल/अस्वीकृत"
+
+#: omega-check/src/omega_check/infrastructure/network/socket_vnc_prober.py:58 omega-deep/src/omega_deep/infrastructure/network/socket_vnc_prober.py:59
+#, python-brace-format
+msgid "RFB {major}.{minor}, security types : {type_names}"
+msgstr "RFB {major}.{minor}, security types: {type_names}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:59 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:56
+#, python-brace-format
+msgid "échec du handshake TLS : {exc}"
+msgstr "TLS हैंडशेक विफल: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:69 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:66
+#, python-brace-format
+msgid "handshake TLS réussi : {tls_version}"
+msgstr "TLS हैंडशेक सफल: {tls_version}"
+
+#: omega-check/src/omega_check/infrastructure/network/ssl_tls_prober.py:71 omega-deep/src/omega_deep/infrastructure/network/ssl_tls_prober.py:68
+#, python-brace-format
+msgid "certificat subject={subject}"
+msgstr "प्रमाणपत्र subject={subject}"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:45 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:44
+msgid "ECONNREFUSED (RST reçu)"
+msgstr "ECONNREFUSED (RST प्राप्त)"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:56 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:55
+#, python-brace-format
+msgid "erreur réseau : {exc}"
+msgstr "नेटवर्क त्रुटि: {exc}"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:64 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:63
+msgid "connexion TCP établie"
+msgstr "TCP कनेक्शन बना"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:68 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:67
+msgid "aucune réponse"
+msgstr "कोई प्रतिक्रिया नहीं"
+
+#: omega-check/src/omega_check/infrastructure/network/tcp_port_prober.py:68 omega-deep/src/omega_deep/infrastructure/network/tcp_port_prober.py:67
+#, python-brace-format
+msgid "timeout après {value} tentative(s)"
+msgstr "{value} प्रयासों के बाद समय समाप्त"
+
+#: omega-check/src/omega_check/infrastructure/storage/sqlite/scan_repository.py:57 omega-deep/src/omega_deep/infrastructure/storage/sqlite/scan_repository.py:68 omega-fold/src/omega_fold/infrastructure/storage/sqlite/scan_repository.py:81
+msgid "échec de sauvegarde du scan {id!r}"
+msgstr "स्कैन {id!r} सहेजने में विफल"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:36
+#, python-brace-format
+msgid "{id} -> {id2}"
+msgstr "{id} -> {id2}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:36 omega-check/src/omega_check/interfaces/tui/screens/compare.py:40 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:39 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:43
+#, python-brace-format
+msgid "Ports présents seulement dans {id} :"
+msgstr "केवल {id} में मौजूद पोर्ट:"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:47
+msgid "Changements d'état :"
+msgstr "स्थिति में बदलाव:"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:49
+#, python-brace-format
+msgid "  port {port_number} : {value} -> {value2}"
+msgstr "  पोर्ट {port_number}: {value} -> {value2}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/compare.py:49 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:52
+msgid "Aucune différence détectée."
+msgstr "कोई अंतर नहीं मिला।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:30 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:30 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:29
+msgid "Texte"
+msgstr "टेक्स्ट"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:50 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:50 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:62
+msgid "Thème (HTML uniquement)"
+msgstr "थीम (केवल HTML)"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:53 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:53 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:51
+msgid "Destination"
+msgstr "गंतव्य"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:84 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:84 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:82
+msgid "Saisissez un chemin de destination."
+msgstr "गंतव्य पाथ लिखें।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:97 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:97 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:95
+#, python-brace-format
+msgid "Export {fmt} terminé"
+msgstr "{fmt} निर्यात पूरा हुआ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:72 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:78
+msgid "Profils de ports système"
+msgstr "सिस्टम पोर्ट प्रोफ़ाइल"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:245 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:54 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:53 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+msgid "Description"
+msgstr "विवरण"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:147 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+msgid "Ports"
+msgstr "पोर्ट"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88
+msgid "Épinglé"
+msgstr "पिन किया गया"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:91 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+msgid "non"
+msgstr "नहीं"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+msgid "oui"
+msgstr "हाँ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/history.py:40 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:49 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:41
+msgid "Filtrer par cible..."
+msgstr "लक्ष्य के अनुसार फ़िल्टर करें..."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/home.py:31 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:37 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:32
+msgid "Profils"
+msgstr "प्रोफ़ाइल"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:51 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:37
+msgid "PROFILS"
+msgstr "प्रोफ़ाइल"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:53 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/duration_preset_table.py:25 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16
+msgid "Nom"
+msgstr "नाम"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:54
+msgid "Ports : ex. 80  /  22,443,8080  /  1000-2000"
+msgstr "पोर्ट: उदा. 80  /  22,443,8080  /  1000-2000"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:58 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:57 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:53
+msgid "Créer"
+msgstr "बनाएँ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:59 omega-track/src/omega_track/interfaces/tui/screens/targets.py:55
+msgid "Modifier"
+msgstr "बदलें"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:62 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:61 omega-track/src/omega_track/interfaces/tui/screens/targets.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:60
+msgid "Supprimer"
+msgstr "हटाएँ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:99 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:98
+msgid "Saisissez au moins un port."
+msgstr "कम से कम एक पोर्ट दर्ज करें।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:104 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:185 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:103
+#, python-brace-format
+msgid "Ports invalides : {exc}"
+msgstr "अमान्य पोर्ट: {exc}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:111 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:110
+msgid "Saisissez un nom."
+msgstr "एक नाम दर्ज करें।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:126 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:142 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:125 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:141 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:99 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:112
+msgid "Sélectionnez d'abord un profil."
+msgstr "पहले एक प्रोफ़ाइल चुनें।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:158 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:157
+#, python-brace-format
+msgid "Le profil '{name}' sera définitivement supprimé."
+msgstr "प्रोफ़ाइल '{name}' स्थायी रूप से हटा दी जाएगी।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:158 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:157
+msgid "SUPPRIMER LE PROFIL ?"
+msgstr "प्रोफ़ाइल हटाएँ?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:67 omega-fold/src/omega_fold/interfaces/tui/screens/scan_progress.py:91
+#, python-brace-format
+msgid "Scan de {target} en cours..."
+msgstr "{target} स्कैन हो रहा है..."
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:111 omega-deep/src/omega_deep/interfaces/tui/screens/scan_progress.py:117
+#, python-brace-format
+msgid "Résolution DNS impossible pour '{target}'."
+msgstr "'{target}' का DNS रिज़ॉल्यूशन संभव नहीं।"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_progress.py:111 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:48 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_progress_screen.py:124
+msgid "Scan échoué"
+msgstr "स्कैन विफल"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:66 omega-check/src/omega_check/interfaces/tui/screens/targets.py:38 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:64 omega-track/src/omega_track/interfaces/tui/screens/targets.py:48
+msgid "ex. 192.168.1.10, example.org"
+msgstr "उदा. 192.168.1.10, example.org"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:125 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:101
+#, python-brace-format
+msgid ""
+"{description}\n"
+"Ports ({count}) : {ports_str}"
+msgstr ""
+"{description}\n"
+"पोर्ट ({count}): {ports_str}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:148 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:137
+msgid "PROFIL COMPLET"
+msgstr "पूर्ण प्रोफ़ाइल"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:81 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:80 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:106
+msgid "Supprimer les exports"
+msgstr "एक्सपोर्ट हटाएँ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:82
+msgid "Supprimer les screenshots"
+msgstr "स्क्रीनशॉट हटाएँ"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:144 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:131 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:130 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:165
+msgid "SUPPRIMER LES EXPORTS ?"
+msgstr "एक्सपोर्ट हटाएँ?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:134 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:133
+msgid "SUPPRIMER LES SCREENSHOTS ?"
+msgstr "स्क्रीनशॉट हटाएँ?"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:156 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:143 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:142 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:179
+#, python-brace-format
+msgid ""
+"Tout le contenu de ce dossier sera définitivement supprimé :\n"
+"{directory}"
+msgstr ""
+"इस फ़ोल्डर की सारी सामग्री स्थायी रूप से हटा दी जाएगी:\n"
+"{directory}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:181 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:168 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:167 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:203
+#, python-brace-format
+msgid "{removed} élément(s) supprimé(s) : {directory}"
+msgstr "{removed} आइटम हटाए गए: {directory}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:185 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:172 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:171 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:207
+#, python-brace-format
+msgid "{removed} élément(s) supprimé(s), {count} impossible(s) à supprimer : {shown}"
+msgstr "{removed} तत्व हटाए गए, {count} हटाए नहीं जा सके: {shown}"
+
+#: omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:36 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:38
+#, python-brace-format
+msgid "SCAN {id}"
+msgstr "स्कैन {id}"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16
+msgid "Logiciel"
+msgstr "सॉफ़्टवेयर"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Port"
+msgstr "पोर्ट"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Rôle"
+msgstr "भूमिका"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16
+msgid "Service"
+msgstr "सर्विस"
+
+#: omega-check/src/omega_check/interfaces/tui/widgets/services_table.py:16 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/interfaces/tui/widgets/services_table.py:16 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "État"
+msgstr "स्थिति"
+
+#: omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:66 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:69
+msgid "Profondeur max"
+msgstr "अधिकतम गहराई"
+
+#: omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:28 omega-deep/src/omega_deep/interfaces/tui/widgets/hosts_table.py:21 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205
+msgid "Source"
+msgstr "स्रोत"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:242 omega-deep/src/omega_deep/interfaces/tui/widgets/discovery_table.py:29 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205
+msgid "Confiance"
+msgstr "विश्वसनीयता"
+
+#: omega-deep/src/omega_deep/interfaces/tui/widgets/hosts_table.py:21 omega-track/src/omega_track/interfaces/tui/screens/results.py:155
+msgid "IP"
+msgstr "IP"
+
+#: omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:47 omega-fold/src/omega_fold/interfaces/tui/widgets/history_table.py:18 omega-stress/src/omega_stress/interfaces/tui/widgets/profile_list.py:16 omega-track/src/omega_track/interfaces/tui/screens/results.py:43 omega-track/src/omega_track/interfaces/tui/screens/results.py:171 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:191 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:205 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+msgid "Type"
+msgstr "प्रकार"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:90 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:150 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:150 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:156 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_progress_screen.py:83
+msgid "Arrêter"
+msgstr "रोकें"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:34 omega-track/src/omega_track/interfaces/tui/screens/targets.py:46 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:48
+msgid "CIBLES"
+msgstr "लक्ष्य"
+
+#: omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:101 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:92
+msgid "Sélectionnez d'abord une cible."
+msgstr "पहले एक लक्ष्य चुनें।"
+
+#: omega-stress/src/omega_stress/interfaces/tui/widgets/target_table.py:17 omega-track/src/omega_track/interfaces/tui/screens/history.py:88 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:17
+msgid "Tags"
+msgstr "टैग"
+
+#: omega-track/src/omega_track/application/exceptions.py:55 omega-fuzz/src/omega_fuzz/application/exceptions.py:45
+msgid "thème inconnu : {theme_name!r}"
+msgstr "अज्ञात थीम: {theme_name!r}"
+
+#: omega-track/src/omega_track/interfaces/tui/screens/history.py:185 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:143
+msgid "Export terminé"
+msgstr "निर्यात पूरा हुआ"
+
+#: omega-track/src/omega_track/interfaces/tui/screens/targets.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:52
+msgid "Ajouter"
+msgstr "जोड़ें"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:42 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:102 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:41 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:112 omega-check/src/omega_check/interfaces/tui/language_setting.py:41 omega-check/src/omega_check/interfaces/tui/language_setting.py:112 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:41 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:112 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:41 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:112 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:41 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:112 omega-track/src/omega_track/interfaces/tui/language_setting.py:41 omega-track/src/omega_track/interfaces/tui/language_setting.py:112 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:41 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:112
+msgid "Comme l'interface"
+msgstr "इंटरफ़ेस जैसी"
+
+#: omega-suite/src/omega_suite/interfaces/tui/language_setting.py:64 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:98 omega-suite/src/omega_suite/interfaces/tui/language_setting.py:102 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:66 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:75 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:108 omega-scan/src/omega_scan/interfaces/tui/language_setting.py:112 omega-check/src/omega_check/interfaces/tui/language_setting.py:66 omega-check/src/omega_check/interfaces/tui/language_setting.py:75 omega-check/src/omega_check/interfaces/tui/language_setting.py:108 omega-check/src/omega_check/interfaces/tui/language_setting.py:112 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:66 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:75 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:108 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:112 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:66 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:75 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:108 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:112 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:66 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:75 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:108 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:112 omega-track/src/omega_track/interfaces/tui/language_setting.py:66 omega-track/src/omega_track/interfaces/tui/language_setting.py:75 omega-track/src/omega_track/interfaces/tui/language_setting.py:108 omega-track/src/omega_track/interfaces/tui/language_setting.py:112 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:66 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:75 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:108 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:112
+msgid "Langue des exports"
+msgstr "एक्सपोर्ट की भाषा"
+
+#: omega-scan/src/omega_scan/interfaces/tui/language_setting.py:68 omega-check/src/omega_check/interfaces/tui/language_setting.py:68 omega-deep/src/omega_deep/interfaces/tui/language_setting.py:68 omega-fold/src/omega_fold/interfaces/tui/language_setting.py:68 omega-stress/src/omega_stress/interfaces/tui/language_setting.py:68 omega-track/src/omega_track/interfaces/tui/language_setting.py:68 omega-fuzz/src/omega_fuzz/interfaces/tui/language_setting.py:68
+#, python-brace-format
+msgid "Langue des exports choisie dans les réglages de {host}."
+msgstr "निर्यात की भाषा {host} की सेटिंग्स में चुनी गई है।"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:171 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:107 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:119 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:136
+msgid "Cible :"
+msgstr "लक्ष्य:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:174 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:109 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:121
+msgid "Profil :"
+msgstr "प्रोफ़ाइल:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:177 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:111 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:124 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:141 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:54
+msgid "Scan ID :"
+msgstr "स्कैन ID:"
+
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:331 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:43 omega-stress/src/omega_stress/interfaces/tui/widgets/progress_panel.py:24 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:86 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:115
+msgid "Erreurs"
+msgstr "त्रुटियाँ"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:18 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:18
+#, python-brace-format
+msgid "Scan ID    : {id}"
+msgstr "स्कैन ID   : {id}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:19 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:19
+#, python-brace-format
+msgid "Cible      : {target} ({value})"
+msgstr "लक्ष्य     : {target} ({value})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:107 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:19 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:119
+msgid "non résolue"
+msgstr "रिज़ॉल्व नहीं हुआ"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:20 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:20
+#, python-brace-format
+msgid "Date       : {created_at}"
+msgstr "तिथि       : {created_at}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:21 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:21
+#, python-brace-format
+msgid "Profil     : {value} (origine: {value2})"
+msgstr "प्रोफ़ाइल  : {value} (मूल: {value2})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:22 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:23
+#, python-brace-format
+msgid "Statut     : {value}"
+msgstr "स्थिति     : {value}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:27 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:115 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:28 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:128
+msgid "Aucun résultat (scan échoué)."
+msgstr "कोई परिणाम नहीं (स्कैन विफल)।"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:30 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:39
+#, python-brace-format
+msgid "{count} port(s) scanné(s) :"
+msgstr "{count} पोर्ट स्कैन किए गए:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:40 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:45
+#, python-brace-format
+msgid "      protocole : {protocol_name} [{value}]"
+msgstr "      प्रोटोकॉल : {protocol_name} [{value}]"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:47 omega-deep/src/omega_deep/infrastructure/exporters/text_exporter.py:52
+#, python-brace-format
+msgid "      rôle      : {role} [{value}]"
+msgstr "      भूमिका    : {role} [{value}]"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:108 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:120 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:138
+msgid "Date :"
+msgstr "तिथि:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:109 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:121
+#, python-brace-format
+msgid "{profile_name} (origine : {profile_origin})"
+msgstr "{profile_name} (मूल: {profile_origin})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:110 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:123 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:140
+msgid "Statut :"
+msgstr "स्थिति:"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:119 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:150
+msgid "Ports scannés"
+msgstr "स्कैन किए गए पोर्ट"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:120 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:151
+msgid "Ouverts"
+msgstr "खुले"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:121 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:152
+msgid "Fermés"
+msgstr "बंद"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:122 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:153
+msgid "Filtrés"
+msgstr "फ़िल्टर किए गए"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Protocole"
+msgstr "प्रोटोकॉल"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:151 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:159
+msgid "Service identifié"
+msgstr "पहचानी गई सेवा"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+#, python-brace-format
+msgid "Auth : {value}"
+msgstr "प्रमाणीकरण: {value}"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:193 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:201
+#, python-brace-format
+msgid "(certificat : {tls_cert_subject})"
+msgstr "(प्रमाणपत्र: {tls_cert_subject})"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:204 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:221 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:239
+msgid "Rapport généré par"
+msgstr "रिपोर्ट बनाने वाला"
+
+#: omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:122 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:139
+msgid "Mode :"
+msgstr "मोड:"
+
+#: omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:58 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:179
+msgid "Résumé"
+msgstr "सारांश"
+
+#: omega-track/src/omega_track/infrastructure/exporters/markdown_file_exporter.py:27 omega-track/src/omega_track/infrastructure/exporters/templates/report.html.j2:174 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:63
+msgid "aucune"
+msgstr "कोई नहीं"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:49 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+msgid "non requise"
+msgstr "आवश्यक नहीं"
+
+#: omega-check/src/omega_check/infrastructure/exporters/text_exporter.py:53 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:133 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:137 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:188 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:196
+msgid "présent"
+msgstr "मौजूद"
+
+#: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
+msgid "requise"
+msgstr "आवश्यक"
