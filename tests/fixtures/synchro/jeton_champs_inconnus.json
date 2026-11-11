@@ -1,0 +1,36 @@
+{
+  "format": "omega-jeton",
+  "schema_version": 1,
+  "tool": "omega-serv",
+  "version": "2.6.1",
+  "installation_id": "9f2c6e1b4a7d4c0e8b3f5a6d7e8c9b0a",
+  "machine": "3b7e0a1c2d3e4f50",
+  "root": "/home/kraynux/omega-serv",
+  "owner": "kraynux",
+  "installed_at": "2026-11-10T14:03:00Z",
+  "updated_at": "2026-11-10T14:03:00Z",
+  "contracts": {
+    "omega-fiche": [
+      1
+    ],
+    "blocklist": [
+      1
+    ],
+    "waf-log": [
+      1
+    ]
+  },
+  "offers": [
+    "waf-logs",
+    "blocklist",
+    "riposte-decisions"
+  ],
+  "wants": [
+    "protected-list",
+    "external-bans"
+  ],
+  "couleur": "bleu",
+  "nouvelle_rubrique": {
+    "a": 1
+  }
+}

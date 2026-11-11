@@ -1,0 +1,6 @@
+{"format": "omega-bans-actifs", "schema_version": 1, "updated_at": "2026-11-10T14:08:00Z",
+ "entries": [
+  {"id": "5d1e0000000000000000000000000001", "at": "2026-11-10T14:07:12Z", "action": "ban",
+   "network": "203.0.113.7/32", "origin": "fail2ban:sshd", "jail": "sshd",
+   "expires_at": "2026-11-10T15:07:12Z", "reason": "sshd", "host": "3b7e0a1c2d3e4f50"}
+ ]}

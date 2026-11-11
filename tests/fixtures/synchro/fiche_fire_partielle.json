@@ -1,0 +1,14 @@
+{
+  "format": "omega-fiche",
+  "schema_version": 1,
+  "tool": "omega-fire",
+  "version": "3.6",
+  "installation_id": "0123456789abcdef0123456789abcdef",
+  "instance": "omega-fire",
+  "generated_at": "2026-11-10T14:06:00Z",
+  "service": null,
+  "capabilities": {"fail2ban": "unknown", "nftables": "active", "iptables": "absent"},
+  "files": {},
+  "partial": true,
+  "backends": {"fail2ban": "unknown", "nftables": "active", "iptables": "absent"}
+}

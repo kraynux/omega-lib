@@ -1,0 +1,4 @@
+{"format": "omega-fiche", "schema_version": 1, "tool": "omega-serv", "version": "2.6.1",
+ "installation_id": "9f2c6e1b4a7d4c0e8b3f5a6d7e8c9b0a", "instance": "omega-serv",
+ "generated_at": "2026-11-10T14:05:00Z", "capabilities": {},
+ "files": {"waf-log": {"path": "var/log/../../../../etc/shadow"}}}

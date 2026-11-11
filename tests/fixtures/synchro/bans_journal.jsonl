@@ -1,0 +1,7 @@
+{"format":"omega-ban","schema_version":1,"id":"5d1e0000000000000000000000000001","at":"2026-11-10T14:07:12Z","action":"ban","network":"203.0.113.7","origin":"fail2ban:sshd","jail":"sshd","expires_at":"2026-11-10T15:07:12Z","reason":"sshd","host":"3b7e0a1c2d3e4f50"}
+{"format":"omega-ban","schema_version":1,"id":"5d1e0000000000000000000000000002","at":"2026-11-10T14:08:00Z","action":"ban","network":"::ffff:198.51.100.4","origin":"fail2ban:omega-serv-riposte-24h","jail":"omega-serv-riposte-24h","expires_at":null,"reason":"riposte"}
+ceci n'est pas du json
+{"format":"omega-ban","schema_version":2,"id":"5d1e0000000000000000000000000003","at":"2026-11-10T14:09:00Z","action":"ban","network":"192.0.2.1","origin":"omega-fire"}
+{"format":"omega-ban","schema_version":1,"id":"5d1e0000000000000000000000000004","at":"2026-11-10T14:10:00Z","action":"ban","network":"192.0.2.9","origin":"intervention"}
+{"format":"omega-ban","schema_version":1,"id":"5d1e0000000000000000000000000005","at":"2026-11-10T14:11:00Z","action":"unban","network":"203.0.113.7/32","origin":"fail2ban:sshd","jail":"sshd"}
+{"format":"omega-ban","schema_version":1,"id":"5d1e0000000000000000000000000006","at":"2026-11-10T14:12

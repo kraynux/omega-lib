@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Omega-Status: testing\n"
+"X-Omega-Status: validated\n"
 
 #: omega-suite/src/omega_suite/app/clear_all_exports.py:64 omega-check/src/omega_check/application/commands/clear_directory.py:50 omega-deep/src/omega_deep/application/commands/clear_directory.py:50 omega-fold/src/omega_fold/application/commands/clear_directory.py:50 omega-fuzz/src/omega_fuzz/application/commands/clear_directory.py:50
 msgid "dossier système ou personnel"
@@ -17,11 +17,11 @@ msgstr "pasta do sistema ou pessoal"
 msgid "ce n'est pas un dossier"
 msgstr "não é uma pasta"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:56 omega-suite/src/omega_suite/interfaces/tui/app.py:57 omega-suite/src/omega_suite/interfaces/tui/app.py:347 omega-scan/src/omega_scan/interfaces/tui/app.py:53 omega-scan/src/omega_scan/interfaces/tui/app.py:54 omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:31 omega-check/src/omega_check/interfaces/tui/app.py:52 omega-check/src/omega_check/interfaces/tui/app.py:53 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-check/src/omega_check/interfaces/tui/screens/home.py:35 omega-deep/src/omega_deep/interfaces/tui/app.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:53 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:34 omega-fold/src/omega_fold/interfaces/tui/app.py:60 omega-fold/src/omega_fold/interfaces/tui/app.py:61 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:32 omega-stress/src/omega_stress/interfaces/tui/app.py:56 omega-stress/src/omega_stress/interfaces/tui/app.py:61 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:41 omega-track/src/omega_track/interfaces/tui/app.py:53 omega-track/src/omega_track/interfaces/tui/app.py:54 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-track/src/omega_track/interfaces/tui/screens/home.py:39 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:54 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:40
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:56 omega-suite/src/omega_suite/interfaces/tui/app.py:57 omega-suite/src/omega_suite/interfaces/tui/app.py:350 omega-scan/src/omega_scan/interfaces/tui/app.py:53 omega-scan/src/omega_scan/interfaces/tui/app.py:54 omega-scan/src/omega_scan/interfaces/tui/app.py:156 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:31 omega-check/src/omega_check/interfaces/tui/app.py:52 omega-check/src/omega_check/interfaces/tui/app.py:53 omega-check/src/omega_check/interfaces/tui/app.py:149 omega-check/src/omega_check/interfaces/tui/screens/home.py:35 omega-deep/src/omega_deep/interfaces/tui/app.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:53 omega-deep/src/omega_deep/interfaces/tui/app.py:149 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:34 omega-fold/src/omega_fold/interfaces/tui/app.py:60 omega-fold/src/omega_fold/interfaces/tui/app.py:61 omega-fold/src/omega_fold/interfaces/tui/app.py:157 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:32 omega-stress/src/omega_stress/interfaces/tui/app.py:56 omega-stress/src/omega_stress/interfaces/tui/app.py:61 omega-stress/src/omega_stress/interfaces/tui/app.py:186 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:41 omega-track/src/omega_track/interfaces/tui/app.py:53 omega-track/src/omega_track/interfaces/tui/app.py:54 omega-track/src/omega_track/interfaces/tui/app.py:156 omega-track/src/omega_track/interfaces/tui/screens/home.py:39 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:53 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:54 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:160 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:40
 msgid "Quitter"
 msgstr "Sair"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:58 omega-scan/src/omega_scan/interfaces/tui/app.py:55 omega-check/src/omega_check/interfaces/tui/app.py:54 omega-deep/src/omega_deep/interfaces/tui/app.py:54 omega-fold/src/omega_fold/interfaces/tui/app.py:62 omega-stress/src/omega_stress/interfaces/tui/app.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/app.py:55 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:55
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:58 omega-scan/src/omega_scan/interfaces/tui/app.py:55 omega-check/src/omega_check/interfaces/tui/app.py:54 omega-deep/src/omega_deep/interfaces/tui/app.py:54 omega-fold/src/omega_fold/interfaces/tui/app.py:62 omega-stress/src/omega_stress/interfaces/tui/app.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:24 omega-track/src/omega_track/interfaces/tui/app.py:55 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:55
 msgid "Thème suivant"
 msgstr "Próximo tema"
 
@@ -29,11 +29,11 @@ msgstr "Próximo tema"
 msgid "Rafraîchir"
 msgstr "Atualizar"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:60 omega-suite/src/omega_suite/interfaces/tui/app.py:345 omega-scan/src/omega_scan/interfaces/tui/app.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:30 omega-check/src/omega_check/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/screens/home.py:34 omega-deep/src/omega_deep/interfaces/tui/app.py:56 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:33 omega-fold/src/omega_fold/interfaces/tui/app.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:31 omega-stress/src/omega_stress/interfaces/tui/app.py:54 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:39 omega-track/src/omega_track/interfaces/tui/app.py:57 omega-track/src/omega_track/interfaces/tui/screens/home.py:38 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:39
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:60 omega-suite/src/omega_suite/interfaces/tui/app.py:348 omega-scan/src/omega_scan/interfaces/tui/app.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:30 omega-check/src/omega_check/interfaces/tui/app.py:56 omega-check/src/omega_check/interfaces/tui/screens/home.py:34 omega-deep/src/omega_deep/interfaces/tui/app.py:56 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:33 omega-fold/src/omega_fold/interfaces/tui/app.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:31 omega-stress/src/omega_stress/interfaces/tui/app.py:54 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:39 omega-track/src/omega_track/interfaces/tui/app.py:57 omega-track/src/omega_track/interfaces/tui/screens/home.py:38 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:39
 msgid "Aide"
 msgstr "Ajuda"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:61 omega-suite/src/omega_suite/interfaces/tui/app.py:344 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:29 omega-check/src/omega_check/interfaces/tui/screens/home.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:32 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:37 omega-track/src/omega_track/interfaces/tui/screens/home.py:37 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:37
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:61 omega-suite/src/omega_suite/interfaces/tui/app.py:347 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:29 omega-check/src/omega_check/interfaces/tui/screens/home.py:33 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:32 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:37 omega-track/src/omega_track/interfaces/tui/screens/home.py:37 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:37
 msgid "Réglages"
 msgstr "Configurações"
 
@@ -61,23 +61,23 @@ msgstr "{family} ({columns}x{rows})"
 msgid "Terminal rafraîchi"
 msgstr "Terminal atualizado"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:346 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158
 msgid "Changer le thème actif"
 msgstr "Mudar o tema ativo"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:343 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:48 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:43 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:51 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:64 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:73 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:72
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:346 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:48 omega-scan/src/omega_scan/interfaces/tui/app.py:154 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:43 omega-check/src/omega_check/interfaces/tui/app.py:147 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:52 omega-deep/src/omega_deep/interfaces/tui/app.py:147 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:51 omega-fold/src/omega_fold/interfaces/tui/app.py:155 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:50 omega-stress/src/omega_stress/interfaces/tui/app.py:184 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:64 omega-track/src/omega_track/interfaces/tui/app.py:146 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:73 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:158 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:72
 msgid "Thème"
 msgstr "Tema"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:350 omega-scan/src/omega_scan/interfaces/tui/app.py:159 omega-check/src/omega_check/interfaces/tui/app.py:152 omega-deep/src/omega_deep/interfaces/tui/app.py:152 omega-fold/src/omega_fold/interfaces/tui/app.py:160 omega-stress/src/omega_stress/interfaces/tui/app.py:199 omega-track/src/omega_track/interfaces/tui/app.py:151
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:353 omega-scan/src/omega_scan/interfaces/tui/app.py:159 omega-check/src/omega_check/interfaces/tui/app.py:152 omega-deep/src/omega_deep/interfaces/tui/app.py:152 omega-fold/src/omega_fold/interfaces/tui/app.py:160 omega-stress/src/omega_stress/interfaces/tui/app.py:199 omega-track/src/omega_track/interfaces/tui/app.py:151
 msgid "Capture d'écran"
 msgstr "Captura de tela"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:351 omega-scan/src/omega_scan/interfaces/tui/app.py:160 omega-check/src/omega_check/interfaces/tui/app.py:153 omega-deep/src/omega_deep/interfaces/tui/app.py:153 omega-fold/src/omega_fold/interfaces/tui/app.py:161 omega-stress/src/omega_stress/interfaces/tui/app.py:200 omega-track/src/omega_track/interfaces/tui/app.py:152
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:354 omega-scan/src/omega_scan/interfaces/tui/app.py:160 omega-check/src/omega_check/interfaces/tui/app.py:153 omega-deep/src/omega_deep/interfaces/tui/app.py:153 omega-fold/src/omega_fold/interfaces/tui/app.py:161 omega-stress/src/omega_stress/interfaces/tui/app.py:200 omega-track/src/omega_track/interfaces/tui/app.py:152
 msgid "Enregistrer une capture SVG de l'écran courant"
 msgstr "Salvar uma captura SVG da tela atual"
 
-#: omega-suite/src/omega_suite/interfaces/tui/app.py:375 omega-scan/src/omega_scan/interfaces/tui/app.py:183 omega-check/src/omega_check/interfaces/tui/app.py:172 omega-deep/src/omega_deep/interfaces/tui/app.py:172 omega-fold/src/omega_fold/interfaces/tui/app.py:180 omega-stress/src/omega_stress/interfaces/tui/app.py:242 omega-track/src/omega_track/interfaces/tui/app.py:184 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:187
+#: omega-suite/src/omega_suite/interfaces/tui/app.py:378 omega-scan/src/omega_scan/interfaces/tui/app.py:183 omega-check/src/omega_check/interfaces/tui/app.py:172 omega-deep/src/omega_deep/interfaces/tui/app.py:172 omega-fold/src/omega_fold/interfaces/tui/app.py:180 omega-stress/src/omega_stress/interfaces/tui/app.py:242 omega-track/src/omega_track/interfaces/tui/app.py:184 omega-fuzz/src/omega_fuzz/interfaces/tui/app.py:187
 msgid "Erreur inattendue"
 msgstr "Erro inesperado"
 
@@ -118,67 +118,67 @@ msgstr "Este terminal (console de texto) não consegue exibir o idioma « {name}
 msgid "RÉGLAGES"
 msgstr "CONFIGURAÇÕES"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:26 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:95 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:69 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:69 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:89 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:118 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:47
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:26 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:102 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:70 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:76 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:76 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:96 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:125 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:54
 msgid "AIDE"
 msgstr "AJUDA"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:40 omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:88 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/compare.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:85 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:112 omega-scan/src/omega_scan/interfaces/tui/screens/history.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:71 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:47 omega-check/src/omega_check/interfaces/tui/screens/_base.py:20 omega-check/src/omega_check/interfaces/tui/screens/compare.py:52 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:77 omega-check/src/omega_check/interfaces/tui/screens/history.py:52 omega-check/src/omega_check/interfaces/tui/screens/home.py:45 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:64 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:96 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:91 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:46 omega-check/src/omega_check/interfaces/tui/screens/targets.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:83 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:83 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:59 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:86 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:85 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:72 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/_base.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:92 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:116 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:158 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:103 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:51 omega-track/src/omega_track/interfaces/tui/screens/_base.py:20 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:127 omega-track/src/omega_track/interfaces/tui/screens/geoip_configuration.py:74 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:132 omega-track/src/omega_track/interfaces/tui/screens/history.py:82 omega-track/src/omega_track/interfaces/tui/screens/home.py:57 omega-track/src/omega_track/interfaces/tui/screens/results.py:145 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:112 omega-track/src/omega_track/interfaces/tui/screens/source_configuration.py:57 omega-track/src/omega_track/interfaces/tui/screens/targets.py:61 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:102 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:57 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:69 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:47 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:50 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:65 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:113 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:62
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:194 omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:40 omega-suite/src/omega_suite/interfaces/tui/screens/contact_support.py:21 omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:99 omega-suite/src/omega_suite/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/compare.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/export_dialog.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/findings.py:85 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:123 omega-scan/src/omega_scan/interfaces/tui/screens/history.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:71 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:80 omega-scan/src/omega_scan/interfaces/tui/screens/targets.py:47 omega-check/src/omega_check/interfaces/tui/screens/_base.py:20 omega-check/src/omega_check/interfaces/tui/screens/compare.py:52 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:88 omega-check/src/omega_check/interfaces/tui/screens/history.py:52 omega-check/src/omega_check/interfaces/tui/screens/home.py:45 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:64 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:96 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:91 omega-check/src/omega_check/interfaces/tui/screens/show_detail.py:46 omega-check/src/omega_check/interfaces/tui/screens/targets.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/compare.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:94 omega-deep/src/omega_deep/interfaces/tui/screens/history.py:55 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:44 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:63 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/show_detail.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:94 omega-fold/src/omega_fold/interfaces/tui/screens/history.py:59 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:42 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:86 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:85 omega-fold/src/omega_fold/interfaces/tui/screens/show_detail.py:72 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/_base.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/calibration_screen.py:92 omega-stress/src/omega_stress/interfaces/tui/screens/connection_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/export_dialog.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:129 omega-stress/src/omega_stress/interfaces/tui/screens/history.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/profiles.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/ramp_panel.py:152 omega-stress/src/omega_stress/interfaces/tui/screens/request_panel.py:158 omega-stress/src/omega_stress/interfaces/tui/screens/run_details.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:103 omega-stress/src/omega_stress/interfaces/tui/screens/targets.py:51 omega-track/src/omega_track/interfaces/tui/screens/_base.py:20 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:127 omega-track/src/omega_track/interfaces/tui/screens/geoip_configuration.py:74 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:143 omega-track/src/omega_track/interfaces/tui/screens/history.py:82 omega-track/src/omega_track/interfaces/tui/screens/home.py:57 omega-track/src/omega_track/interfaces/tui/screens/results.py:145 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:112 omega-track/src/omega_track/interfaces/tui/screens/source_configuration.py:57 omega-track/src/omega_track/interfaces/tui/screens/targets.py:61 omega-track/src/omega_track/interfaces/tui/screens/tracker.py:102 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:68 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:69 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_screen.py:47 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:50 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_review_screen.py:65 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_setup_screen.py:106 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/settings_screen.py:113 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/targets_screen.py:62
 msgid "Retour"
 msgstr "Voltar"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:41 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:42 omega-check/src/omega_check/interfaces/tui/screens/_base.py:21 omega-check/src/omega_check/interfaces/tui/screens/home.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:43 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:54 omega-track/src/omega_track/interfaces/tui/screens/_base.py:21 omega-track/src/omega_track/interfaces/tui/screens/home.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:51
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:41 omega-suite/src/omega_suite/interfaces/tui/screens/contact_support.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:42 omega-check/src/omega_check/interfaces/tui/screens/_base.py:21 omega-check/src/omega_check/interfaces/tui/screens/home.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:45 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:43 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:54 omega-track/src/omega_track/interfaces/tui/screens/_base.py:21 omega-track/src/omega_track/interfaces/tui/screens/home.py:58 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:51
 msgid "Monter"
 msgstr "Subir"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:42 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:43 omega-check/src/omega_check/interfaces/tui/screens/_base.py:22 omega-check/src/omega_check/interfaces/tui/screens/home.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:55 omega-track/src/omega_track/interfaces/tui/screens/_base.py:22 omega-track/src/omega_track/interfaces/tui/screens/home.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:52
+#: omega-suite/src/omega_suite/interfaces/tui/screens/accueil.py:42 omega-suite/src/omega_suite/interfaces/tui/screens/contact_support.py:23 omega-scan/src/omega_scan/interfaces/tui/screens/_base.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:43 omega-check/src/omega_check/interfaces/tui/screens/_base.py:22 omega-check/src/omega_check/interfaces/tui/screens/home.py:47 omega-deep/src/omega_deep/interfaces/tui/screens/_base.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/_base.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:44 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:55 omega-track/src/omega_track/interfaces/tui/screens/_base.py:22 omega-track/src/omega_track/interfaces/tui/screens/home.py:59 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/_base.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:52
 msgid "Descendre"
 msgstr "Descer"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:20 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:35 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:21 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:36 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:60 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:37 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:58 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:33 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:55 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:21 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:36 omega-track/src/omega_track/interfaces/tui/screens/progress.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:38
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:128 LIB/src/omega_lib/interfaces/tui/contact_support.py:361 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:20 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:35 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:21 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:36 omega-check/src/omega_check/interfaces/tui/screens/export_dialog.py:60 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:36 omega-deep/src/omega_deep/interfaces/tui/screens/export_dialog.py:60 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:37 omega-fold/src/omega_fold/interfaces/tui/screens/export_dialog.py:58 omega-fold/src/omega_fold/interfaces/tui/widgets/progress_panel.py:33 omega-stress/src/omega_stress/interfaces/tui/screens/profile_wizard.py:55 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:21 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:36 omega-track/src/omega_track/interfaces/tui/screens/progress.py:83 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:38
 msgid "Annuler"
 msgstr "Cancelar"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:34 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:34 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:34 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:35 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:36
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:126 omega-suite/src/omega_suite/interfaces/tui/screens/confirm.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/confirm.py:34 omega-check/src/omega_check/interfaces/tui/screens/confirm.py:34 omega-deep/src/omega_deep/interfaces/tui/screens/confirm.py:34 omega-fold/src/omega_fold/interfaces/tui/screens/confirm.py:35 omega-track/src/omega_track/interfaces/tui/screens/confirm.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/confirm_screen.py:36
 msgid "Confirmer"
 msgstr "Confirmar"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
 msgid "Haut / Bas"
 msgstr "Cima / Baixo"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:17 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:13 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:16 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:17 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:18 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:20 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:19 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:24
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
 msgid "Naviguer entre les éléments d'un écran"
 msgstr "Navegar entre os elementos de uma tela"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
 msgid "Naviguer entre les champs d'un formulaire"
 msgstr "Navegar entre os campos de um formulário"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:18 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:14 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:18 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:20 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:25
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
 msgid "Tab / Maj+Tab"
 msgstr "Tab / Shift+Tab"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:16 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:20 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:21 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:27
 msgid "Retour à l'écran précédent (confirmation de sortie sur l'accueil)"
 msgstr "Voltar à tela anterior (confirmação de saída no início)"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:19 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:15 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:18 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:19 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:20 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:21 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:26
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:16 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:20 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:21 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:27
 msgid "Échap"
 msgstr "Esc"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:20 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:16 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:20 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:21 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:27
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:17 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:28
 msgid "Thème suivant (appliqué immédiatement, sans confirmation)"
 msgstr "Próximo tema (aplicado imediatamente, sem confirmação)"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:21 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:17 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:20 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:21 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:22 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:28
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:22 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:18 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:23 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:29
 msgid "Rafraîchir la détection du terminal"
 msgstr "Atualizar a detecção do terminal"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:50 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:96 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:64 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:70 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:70 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:119 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:48
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:57 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:103 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:71 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:77 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:77 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:97 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:126 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:55
 msgid "Raccourcis clavier"
 msgstr "Atalhos de teclado"
 
-#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:98 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:66 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:72 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:72 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:92 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:121 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:50
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:59 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:105 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:73 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:79 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:79 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:99 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:128 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:57
 #, python-brace-format
 msgid "{key:<14} {description}"
 msgstr "{key:<14} {description}"
@@ -277,43 +277,43 @@ msgstr "Formato"
 msgid "Exporter"
 msgstr "Exportar"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:18 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:21 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:22 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:23 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:24 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:24 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:29
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:19 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:24 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:25 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:30
 msgid "Cette aide"
 msgstr "Esta ajuda"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:19 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:22 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:23 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:24 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:25 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:25 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:30
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:20 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:23 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:24 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:25 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:26 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:26 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:31
 msgid "Quitter (avec confirmation)"
 msgstr "Sair (com confirmação)"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:22 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:23 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/history_detail_screen.py:74 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/scan_results_screen.py:83
 msgid "Paramètre"
 msgstr "Parâmetro"
 
-#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:33 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:77
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:35 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:77
 msgid "Non"
 msgstr "Não"
 
-#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:34 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:35 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:324 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:74
+#: omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:126 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:129 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:130 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:144 omega-scan/src/omega_scan/infrastructure/exporters/text_exporter.py:157 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:35 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:36 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:273 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:276 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:279 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:297 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:320 omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:324 omega-stress/src/omega_stress/interfaces/tui/presenters/load_reference_presenter.py:74
 msgid "Oui"
 msgstr "Sim"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:52 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:26 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:27 omega-check/src/omega_check/interfaces/tui/screens/home.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:35
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:53 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:26 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:28 omega-check/src/omega_check/interfaces/tui/screens/home.py:29 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:30 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:28 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:35
 msgid "Scanner"
 msgstr "Escanear"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:60 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:28 omega-check/src/omega_check/interfaces/tui/screens/home.py:30 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:42 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:34 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:102 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:30 omega-track/src/omega_track/interfaces/tui/screens/home.py:32 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:36
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:61 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:28 omega-check/src/omega_check/interfaces/tui/screens/home.py:30 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:43 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:34 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:90 omega-track/src/omega_track/interfaces/tui/screens/dashboard.py:102 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:31 omega-track/src/omega_track/interfaces/tui/screens/home.py:32 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:36
 msgid "Cibles"
 msgstr "Alvos"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:67 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:27 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:35 omega-check/src/omega_check/interfaces/tui/screens/home.py:32 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:37 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:31 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:38 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:47 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:35 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:98 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:71 omega-track/src/omega_track/interfaces/tui/screens/home.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:38
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:68 omega-scan/src/omega_scan/interfaces/tui/screens/home.py:27 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:36 omega-check/src/omega_check/interfaces/tui/screens/home.py:32 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:38 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:31 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:39 omega-fold/src/omega_fold/interfaces/tui/screens/home.py:29 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:48 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:35 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:98 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:72 omega-track/src/omega_track/interfaces/tui/screens/home.py:34 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/home.py:38
 msgid "Historique"
 msgstr "Histórico"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:74 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:60 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:42 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:65 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:45 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:46 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:63 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:52 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:83
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:75 omega-scan/src/omega_scan/interfaces/tui/screens/settings_screen.py:60 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:43 omega-check/src/omega_check/interfaces/tui/screens/settings_screen.py:65 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:46 omega-deep/src/omega_deep/interfaces/tui/screens/settings_screen.py:64 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:47 omega-fold/src/omega_fold/interfaces/tui/screens/settings_screen.py:63 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:53 omega-stress/src/omega_stress/interfaces/tui/screens/settings_screen.py:83
 msgid "Export"
 msgstr "Exportação"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:100 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:68 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:74 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:74 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:94 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:123
+#: omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:107 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:75 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:81 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:81 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:101 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:130
 msgid "Fonctions"
 msgstr "Funções"
 
@@ -370,7 +370,7 @@ msgstr "ESCANEAR UM ALVO"
 msgid "Cible"
 msgstr "Alvo"
 
-#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:56 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:68 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:66 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:67
+#: omega-scan/src/omega_scan/interfaces/tui/screens/scan_setup.py:56 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:93 omega-check/src/omega_check/interfaces/tui/screens/scan_setup.py:68 omega-check/src/omega_check/interfaces/tui/widgets/history_table.py:17 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:99 omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:66 omega-deep/src/omega_deep/interfaces/tui/widgets/history_table.py:19 omega-stress/src/omega_stress/interfaces/tui/widgets/history_table.py:16 omega-stress/src/omega_stress/infrastructure/exporters/templates/report.html.jinja:67
 msgid "Profil"
 msgstr "Perfil"
 
@@ -734,27 +734,27 @@ msgstr "Digite um caminho de destino."
 msgid "Export {fmt} terminé"
 msgstr "Exportação {fmt} concluída"
 
-#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:72 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:78
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:79 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:85
 msgid "Profils de ports système"
 msgstr "Perfis de portas do sistema"
 
-#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:245 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:54 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:53 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+#: omega-scan/src/omega_scan/infrastructure/exporters/templates/report.html.jinja:245 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:93 omega-check/src/omega_check/interfaces/tui/screens/profiles_screen.py:54 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:99 omega-deep/src/omega_deep/interfaces/tui/screens/profiles_screen.py:53 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
 msgid "Description"
 msgstr "Descrição"
 
-#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:147 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:93 omega-check/src/omega_check/interfaces/tui/widgets/profiles_table.py:19 omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:147 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:99 omega-deep/src/omega_deep/interfaces/tui/widgets/profiles_table.py:19
 msgid "Ports"
 msgstr "Portas"
 
-#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:82 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:88
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:93 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:99
 msgid "Épinglé"
 msgstr "Fixado"
 
-#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:91 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:96 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:102 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:92 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
 msgid "non"
 msgstr "não"
 
-#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:85 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:81 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
+#: omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:96 omega-track/src/omega_track/interfaces/tui/screens/settings_screen.py:136 omega-track/src/omega_track/interfaces/tui/widgets/targets_table.py:26 omega-fuzz/src/omega_fuzz/infrastructure/exporters/markdown_exporter.py:122 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:92 omega-fuzz/src/omega_fuzz/infrastructure/exporters/html_exporter/templates/report.html.j2:61
 msgid "oui"
 msgstr "sim"
 
@@ -762,7 +762,7 @@ msgstr "sim"
 msgid "Filtrer par cible..."
 msgstr "Filtrar por alvo..."
 
-#: omega-check/src/omega_check/interfaces/tui/screens/home.py:31 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:37 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:32
+#: omega-check/src/omega_check/interfaces/tui/screens/home.py:31 omega-deep/src/omega_deep/interfaces/tui/screens/home.py:30 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:38 omega-stress/src/omega_stress/interfaces/tui/screens/home.py:32
 msgid "Profils"
 msgstr "Perfis"
 
@@ -907,7 +907,7 @@ msgstr "Serviço"
 msgid "État"
 msgstr "Status"
 
-#: omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:66 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:69
+#: omega-deep/src/omega_deep/interfaces/tui/screens/scan_setup.py:75 omega-fold/src/omega_fold/interfaces/tui/screens/scan_setup.py:66 omega-fold/src/omega_fold/infrastructure/exporters/templates/scan_report.html.j2:150 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:80
 msgid "Profondeur max"
 msgstr "Profundidade máx."
 
@@ -1106,3 +1106,231 @@ msgstr "presente"
 #: omega-check/src/omega_check/infrastructure/exporters/templates/scan_report.html.j2:183 omega-deep/src/omega_deep/infrastructure/exporters/templates/scan_report.html.j2:191
 msgid "requise"
 msgstr "exigida"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:56
+msgid "Afrique"
+msgstr "África"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:57
+msgid "Antarctique"
+msgstr "Antártida"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:58
+msgid "Asie"
+msgstr "Ásia"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:59
+msgid "Europe"
+msgstr "Europa"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:60
+msgid "Amérique du Nord"
+msgstr "América do Norte"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:61
+msgid "Océanie"
+msgstr "Oceania"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:62
+msgid "Amérique du Sud"
+msgstr "América do Sul"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:122
+msgid "NE PLUS ME DÉCLARER ?"
+msgstr "NÃO ME DECLARAR MAIS?"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:123
+msgid "Votre entrée sera supprimée du compteur et la clé effacée de cette installation."
+msgstr "Sua entrada será removida do contador e a chave apagada desta instalação."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:157
+msgid "CONTACT ET SUPPORT"
+msgstr "CONTATO E SUPORTE"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:158
+#, python-brace-format
+msgid "Aidez le développeur : {software} est développé et maintenu par une seule personne."
+msgstr "Ajude o desenvolvedor: o {software} é desenvolvido e mantido por uma única pessoa."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:161 LIB/src/omega_lib/interfaces/tui/contact_support.py:165
+msgid "Payer un café"
+msgstr "Pagar um café"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:162
+msgid "Un don aide à couvrir les frais des serveurs (électricité)."
+msgstr "Uma doação ajuda a cobrir os custos dos servidores (eletricidade)."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:167 LIB/src/omega_lib/interfaces/tui/contact_support.py:174 LIB/src/omega_lib/interfaces/tui/contact_support.py:211
+msgid "Se déclarer utilisateur (anonyme)"
+msgstr "Declarar-me usuário (anônimo)"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:168
+msgid "Une déclaration volontaire et anonyme, qui sert uniquement à compter les utilisateurs et, si vous le souhaitez, leur continent ou leur pays."
+msgstr "Uma declaração voluntária e anônima, que serve apenas para contar os usuários e, se você quiser, o continente ou o país deles."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:176
+msgid "Ne plus me déclarer"
+msgstr "Não me declarar mais"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:178 LIB/src/omega_lib/interfaces/tui/contact_support.py:182
+msgid "Contacter le support"
+msgstr "Contatar o suporte"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:179
+#, python-brace-format
+msgid "Mail : {SUPPORT_MAIL}"
+msgstr "E-mail: {SUPPORT_MAIL}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:180
+#, python-brace-format
+msgid "Formulaire de contact : {CONTACT_FORM_URL}"
+msgstr "Formulário de contato: {CONTACT_FORM_URL}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:184
+msgid "Version et mises à jour"
+msgstr "Versão e atualizações"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:185
+msgid "Compare votre version à la liste des versions publiées sur le site. Rien n'est envoyé, et rien n'est vérifié sans votre clic."
+msgstr "Compara sua versão com a lista de versões publicadas no site. Nada é enviado, e nada é verificado sem o seu clique."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:187
+#, python-brace-format
+msgid "Version installée : {version}"
+msgstr "Versão instalada: {version}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:190
+msgid "Vérifier les mises à jour"
+msgstr "Verificar atualizações"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:192
+msgid "Voir les nouveautés"
+msgstr "Ver novidades"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:210
+msgid "État : non déclaré."
+msgstr "Status: não declarado."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:214
+#, python-brace-format
+msgid "État : déclaré le {value} (envoi : une seule fois)."
+msgstr "Situação: declarado em {value} (envio: uma única vez)."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:216
+msgid "Modifier ma déclaration"
+msgstr "Alterar minha declaração"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:239
+msgid "Ouverture dans le navigateur..."
+msgstr "Abrindo no navegador..."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:247
+#, python-brace-format
+msgid "Aucun navigateur disponible ici (session sans affichage) : ouvrez cette adresse vous-même : {url}"
+msgstr "Nenhum navegador disponível aqui (sessão sem tela): abra este endereço você mesmo: {url}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:265
+msgid "Vous n'êtes plus déclaré : votre entrée est supprimée et la clé effacée."
+msgstr "Você não está mais declarado: sua entrada foi excluída e a chave apagada."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:267
+msgid "Clé effacée. Réception injoignable : votre entrée y disparaîtra seule (1 an)."
+msgstr "Chave apagada. Recepção inacessível: sua entrada desaparecerá lá sozinha (1 ano)."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:274
+msgid "Vérification en cours..."
+msgstr "Verificação em andamento..."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:295
+#, python-brace-format
+msgid ""
+"Nouvelle version disponible : {latest} (installée : {installed}).\n"
+"Archive : {url}"
+msgstr ""
+"Nova versão disponível: {latest} (instalada: {installed}).\n"
+"Arquivo: {url}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:298
+#, python-brace-format
+msgid "Vous avez la dernière version publiée ({version})."
+msgstr "Você tem a última versão publicada ({version})."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:300
+#, python-brace-format
+msgid "Votre version ({installed}) est plus récente que la dernière publiée ({latest}) : version en cours, pas encore publiée."
+msgstr "Sua versão ({installed}) é mais recente que a última publicada ({latest}): versão em andamento, ainda não publicada."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:304
+#, python-brace-format
+msgid "Version installée : {version}. Site injoignable ou liste des versions illisible : réessayez plus tard."
+msgstr "Versão instalada: {version}. Site inacessível ou lista de versões ilegível: tente novamente mais tarde."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:326
+msgid "Autre (non référencé)"
+msgstr "Outro (não listado)"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:331
+msgid "SE DÉCLARER UTILISATEUR (ANONYME)"
+msgstr "DECLARAR-ME USUÁRIO (ANÔNIMO)"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:332
+#, python-brace-format
+msgid "Une déclaration volontaire et anonyme : elle sert uniquement à compter les utilisateurs d'{software} et, si vous le souhaitez, leur continent ou leur pays. Une clé tirée au hasard est créée pour cette installation ; elle n'a aucun lien avec vous ni avec votre machine. Envoi : une seule fois, maintenant."
+msgstr "Uma declaração voluntária e anônima: serve apenas para contar os usuários do {software} e, se você quiser, o continente ou o país deles. Uma chave aleatória é criada para esta instalação; ela não tem nenhuma ligação com você nem com a sua máquina. Envio: uma única vez, agora."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:338
+msgid "Continent (facultatif)"
+msgstr "Continente (opcional)"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:340 LIB/src/omega_lib/interfaces/tui/contact_support.py:344
+msgid "Non précisé"
+msgstr "Não informado"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:341
+msgid "Pays (facultatif)"
+msgstr "País (opcional)"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:346
+msgid "Message envoyé"
+msgstr "Mensagem enviada"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:348
+#, python-brace-format
+msgid "Destination : {RECEPTION_URL}"
+msgstr "Destino: {RECEPTION_URL}"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:349
+msgid "Jamais envoyés : votre nom, le nom de la machine, vos réglages, vos cibles ni vos résultats."
+msgstr "Nunca enviados: seu nome, o nome da máquina, suas configurações, seus alvos nem seus resultados."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:351
+msgid "Votre adresse IP n'est pas enregistrée dans les déclarations. Comme pour toute visite d'un site, elle passe par les contrôles de sécurité et le journal technique du serveur de réception."
+msgstr "Seu endereço IP não é registrado nas declarações. Como em qualquer visita a um site, ele passa pelos controles de segurança e pelo log técnico do servidor de recepção."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:354
+msgid "Vous pouvez retirer votre déclaration à tout moment depuis Contact et support."
+msgstr "Você pode retirar sua declaração a qualquer momento em Contato e suporte."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:359
+msgid "Envoyer"
+msgstr "Enviar"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:380
+msgid "<clé tirée au hasard à l'envoi>"
+msgstr "<chave sorteada ao acaso no envio>"
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:395
+msgid "Envoi en cours..."
+msgstr "Enviando..."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:406
+msgid "Merci ! Vous êtes déclaré utilisateur anonyme."
+msgstr "Obrigado! Você está declarado como usuário anônimo."
+
+#: LIB/src/omega_lib/interfaces/tui/contact_support.py:412
+msgid "Réception injoignable : rien n'a été enregistré, réessayez plus tard."
+msgstr "Recepção inacessível: nada foi registrado, tente de novo mais tarde."
+
+#: omega-suite/src/omega_suite/interfaces/tui/screens/help_screen.py:97 omega-scan/src/omega_scan/interfaces/tui/screens/help_screen.py:121 omega-check/src/omega_check/interfaces/tui/screens/help_screen.py:86 omega-deep/src/omega_deep/interfaces/tui/screens/help_screen.py:92 omega-fold/src/omega_fold/interfaces/tui/screens/help_screen.py:92 omega-stress/src/omega_stress/interfaces/tui/screens/help_screen.py:126 omega-track/src/omega_track/interfaces/tui/screens/help_screen.py:141 omega-fuzz/src/omega_fuzz/interfaces/tui/screens/help_screen.py:66
+msgid "Contact et support"
+msgstr "Contato e suporte"

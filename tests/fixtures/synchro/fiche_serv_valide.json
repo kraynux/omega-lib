@@ -1,0 +1,21 @@
+{
+  "format": "omega-fiche",
+  "schema_version": 1,
+  "tool": "omega-serv",
+  "version": "2.6.1",
+  "installation_id": "9f2c6e1b4a7d4c0e8b3f5a6d7e8c9b0a",
+  "instance": "omega-serv-blog",
+  "generated_at": "2026-11-10T14:05:00Z",
+  "service": {"manager": "systemd", "unit": "omega-serv-blog.service", "user": "omega-serv",
+              "group": "omega-serv", "state": "active"},
+  "exposure": "proxy",
+  "capabilities": {"waf": "active", "omega-waf": "active", "riposte": "disabled",
+                   "active-defense": "active", "native-engine": "active", "blocklist": "active",
+                   "teleportation": "quantum"},
+  "files": {
+    "waf-log": {"path": "/home/kraynux/omega-serv-blog/var/log/waf-alerts.log", "contract": ["waf-log", 1]},
+    "blocklist": {"path": "/home/kraynux/omega-serv-blog/var/lib/waf/blocklist.json", "contract": ["blocklist", 1]}
+  },
+  "partial": false,
+  "omega_waf": {"script": "/home/kraynux/omega-serv-blog/secure/waf/omega-waf.lua", "mode": "block"}
+}
